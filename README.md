@@ -29,8 +29,9 @@ You can choose the background colors of your vault and even the accents to have 
 _Available with the Style Settings plugin._
   
 ![Affiche1Lightmode-0](https://user-images.githubusercontent.com/109313204/210191460-d6272079-931d-4f02-8498-9feadb2794dd.png)
-![Affiche1Darkmode-0](https://user-images.githubusercontent.com/109313204/210191559-31ab2478-2fcc-4064-b120-524aa0a8d57f.png)
-  
+![AfficheDarkmode-0](https://user-images.githubusercontent.com/109313204/210195916-eb241a3f-19b4-4987-8dcd-4bfcaa5a0a54.jpg)
+
+
 ## Editor
 You can change anything in your vault, including... :
 - headers 
@@ -60,10 +61,10 @@ You can change anything in your vault, including... :
 #### Workspace Background Image
 ![backgroundimageaffiche](https://user-images.githubusercontent.com/109313204/210192490-d4fb9ee3-a1ce-46e3-b723-6e0b951d1848.jpg)
 
-## Credits
+## Acknowledgements
   
 Special thanks to [@melnh](https://github.com/melnhh) for helping me to fix problems in the theme and make it more nice.
   
 Thank you for using the Shiba Uni theme!
-  ![AfficheDeFin](https://user-images.githubusercontent.com/109313204/209595407-954ff924-c4a2-4be8-8900-34f39551abec.jpg)
+![AfficheDeFin](https://user-images.githubusercontent.com/109313204/209595407-954ff924-c4a2-4be8-8900-34f39551abec.jpg)
 
