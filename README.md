@@ -31,21 +31,23 @@ You can choose the background colors of your vault and even the accents to have 
 _Available with the Style Settings plugin._
   
 ![Affiche1Lightmode-0](https://user-images.githubusercontent.com/109313204/210191460-d6272079-931d-4f02-8498-9feadb2794dd.png)
-![AfficheDarkmode-0](https://user-images.githubusercontent.com/109313204/210195916-eb241a3f-19b4-4987-8dcd-4bfcaa5a0a54.jpg)
+![AfficheDarkmode](https://user-images.githubusercontent.com/109313204/210260868-a86c4bd1-286a-4550-ad6c-92af147e7a57.png)
 
 
 ## Editor
-You can change anything in your vault, including... :
-- headers 
+You can style anything in your vault, including... :
+- Headers 
 - Bold text
-- Italicized text
+- Italic text
 - Highlights
 - Tags
 - Links
 - Tabs
 - Table
-- Legal Notice
-  
+- Callouts
+
+![headeraffiche](https://user-images.githubusercontent.com/109313204/210260418-0c8810ba-4494-468e-b0a0-e698ab8ab9d4.png)
+
   
 ## Miscellaneous
 #### Custom Buttons for the Button Plugin
