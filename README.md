@@ -15,13 +15,15 @@ If you have any questions, suggestions or requirements for implementation, pleas
 
 
 ## About Shiba Uni Theme
-- [Colors](Colors)
-- [Editor](Editor)
-- [Miscellaneous](Miscellaneous)
-- [Workspace](Workspace)
+- [Colors](#Colors)
+- [Editor](#Editor)
+- [Miscellaneous](#Miscellaneous)
+- [Workspace](#Workspace)
   
   
-![ShibaBackground2](https://user-images.githubusercontent.com/109313204/209595415-c0c64ada-322e-440d-974d-a4f3ffd04264.jpg)
+  
+  
+![Shiba-Uni-Background.jpg](https://user-images.githubusercontent.com/109313204/209595415-c0c64ada-322e-440d-974d-a4f3ffd04264.jpg)
 
  
 ## Colors
