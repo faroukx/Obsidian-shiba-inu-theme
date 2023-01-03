@@ -1,4 +1,4 @@
-## Shiba Uni Theme
+## Shiba Uni Theme BETA VERSION
 
 <p>
   <a href="https://github.com/faroukx/handle-path-oz">
