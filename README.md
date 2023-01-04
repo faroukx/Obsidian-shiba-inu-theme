@@ -1,13 +1,17 @@
 ## Shiba Uni Theme BETA VERSION
 
-<p>
+
+
   <a href="https://github.com/faroukx/handle-path-oz">
     <img width="16%" align="right" alt="Farouk's github stats" src="https://user-images.githubusercontent.com/109313204/210188991-90181242-5193-472e-8d98-023209b9a2ef.png" />
-  </a> <br> Shiba Uni Theme for Obsidian.md <br> 柴犬の黒曜石のテーマ <br> ～ A japanese styled Theme for Obsidian by Farouk <br>
+  </a> <br> Shiba Uni Theme for Obsidian.md <br> 柴犬の黒曜石のテーマ <br> ～ A japanese styled Theme for Obsidian by Farouk <br> 
+  
   
 Designed for those who want a soft, comfortable workspace with a Japanese touch—like a Shiba Uni—to enhance your Obsidian experience.
 
-
+<center>
+  <a href='https://www.buymeacoffee.com/faroukx'  target='_blank'><img height='55' style='border:0px;height:55px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-orange.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</center>
   
 ## Tutorial
 Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx): [Tutorial Link](https://github.com/faroukx/obsidian-homepage) (Working on it)<br>
@@ -71,4 +75,7 @@ Special thanks to [@melnh](https://github.com/melnhh) for helping me to fix prob
   
 Thank you for using the Shiba Uni theme!
 ![AfficheDeFin](https://user-images.githubusercontent.com/109313204/209595407-954ff924-c4a2-4be8-8900-34f39551abec.jpg)
+
+## Support
+
 
