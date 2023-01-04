@@ -7,7 +7,7 @@
   
 Designed for those who want a soft, comfortable workspace with a Japanese touch—like a Shiba Uni—to enhance your Obsidian experience.
 
-<br>
+
   
 ## Tutorial
 Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx): [Tutorial Link](https://github.com/faroukx/obsidian-homepage) (Working on it)<br>
