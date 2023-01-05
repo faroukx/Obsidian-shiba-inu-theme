@@ -1,4 +1,4 @@
-## Shiba Uni Theme BETA VERSION
+## Shiba Uni Theme ï½ž BETA VERSION
 
 
 
@@ -12,8 +12,12 @@ Designed for those who want a soft, comfortable workspace with a Japanese touchâ
 <center>
   <a href='https://www.buymeacoffee.com/faroukx'  target='_blank'><img height='55' style='border:0px;height:55px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-orange.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </center>
+
+**I highly recommend to install the Style Settings plugin in the Plugins Community Store for a more pleasant use of the theme.**
+
   
 ## Tutorial
+
 Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx): [Tutorial Link](https://github.com/faroukx/obsidian-homepage) (Working on it)<br>
 If you have any questions, suggestions or requirements for implementation, please contact me on discord: Farouk#9239.
 
@@ -40,34 +44,27 @@ _Available with the Style Settings plugin._
 
 ## Editor
 You can style anything in your vault, including... :
-- Headers 
-- Bold text
-- Italic text
-- Highlights
-- Tags
-- Links
-- Tabs
-- Table
-- Callouts
 
-![headeraffiche](https://user-images.githubusercontent.com/109313204/210260418-0c8810ba-4494-468e-b0a0-e698ab8ab9d4.png)
 
+![headers-0](https://user-images.githubusercontent.com/109313204/210895815-6b57653e-1f65-4bd7-940f-41d39375a203.png)
+
+![customcallouts-tabs-button-0 (1)](https://user-images.githubusercontent.com/109313204/210895800-c1175662-2696-4d3f-8a19-46aef49823c0.png)
   
 ## Miscellaneous
-#### Custom Buttons for the Button Plugin
-![button](https://user-images.githubusercontent.com/109313204/210191989-d9b4e0f1-77bf-4598-9c4d-dd8ff960a8b2.jpg)
 
-#### Translucent Panel
+Miscellaneous are cool features that are compatible with the Shiba Uni theme such as the translucent control panel:
+
 ![transulentaffiche](https://user-images.githubusercontent.com/109313204/210192036-a4136ca5-a410-4bab-a108-5ecd0c89a121.jpg)
 
   
 ## Workspace
 #### Workspace Card Layout
-![Screenshot 2023-01-01 at 22 09 13](https://user-images.githubusercontent.com/109313204/210192626-31f78571-02e2-42df-9d4f-ded5da838d1a.png)
+![cards layout-0](https://user-images.githubusercontent.com/109313204/210895712-6427a41b-e43f-4680-a2ca-9040940f516a.png)
 
 
 #### Workspace Background Image
-![backgroundimageaffiche](https://user-images.githubusercontent.com/109313204/210192490-d4fb9ee3-a1ce-46e3-b723-6e0b951d1848.jpg)
+![Background-Image!!!](https://user-images.githubusercontent.com/109313204/210877444-2fa065bf-c08c-4dbb-bc6c-2b2e9a60a5f3.jpg)
+
 
 ## Acknowledgements
   
@@ -76,6 +73,5 @@ Special thanks to [@melnh](https://github.com/melnhh) for helping me to fix prob
 Thank you for using the Shiba Uni theme!
 ![AfficheDeFin](https://user-images.githubusercontent.com/109313204/209595407-954ff924-c4a2-4be8-8900-34f39551abec.jpg)
 
-## Support
 
 
