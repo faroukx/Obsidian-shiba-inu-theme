@@ -1,4 +1,4 @@
-## Shiba Uni Theme ～ BETA VERSION
+## Shiba Uni Theme ～ **柴犬のテーマ** ～ A japanese styled Theme for Obsidian
 
 
 
@@ -58,6 +58,12 @@ Miscellaneous are cool features that are compatible with the Shiba Uni theme suc
 
   
 ## Workspace
+
+#### Colorful Folders
+![colorfulfonts](https://user-images.githubusercontent.com/109313204/211130894-9e4627e3-b2e7-43de-91ec-abeabe7094f3.png)
+
+
+
 #### Workspace Card Layout
 ![cards layout-0](https://user-images.githubusercontent.com/109313204/210895712-6427a41b-e43f-4680-a2ca-9040940f516a.png)
 
