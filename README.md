@@ -1,3 +1,6 @@
+<img src="https://github.com/faroukx/Obsidian-shiba-uni-theme/blob/main/shibaunibackground-512-x-288.png?raw=true">
+
+
 ## Shiba Uni Theme ～ **柴犬のテーマ** ～ A japanese styled Theme for Obsidian
 
 
@@ -29,10 +32,6 @@ If you have any questions, suggestions or requirements for implementation, pleas
 - [Workspace](#Workspace)
   
   
-  
-  
-![Shiba-Uni-Background.jpg](https://user-images.githubusercontent.com/109313204/209595415-c0c64ada-322e-440d-974d-a4f3ffd04264.jpg)
-
  
 ## Colors
 You can choose the background colors of your vault and even the accents to have the setup that suits you. <br>
