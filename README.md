@@ -39,6 +39,7 @@ _Available with the Style Settings plugin._
   
 ![Affiche1Lightmode-0](https://user-images.githubusercontent.com/109313204/210191460-d6272079-931d-4f02-8498-9feadb2794dd.png)
 ![AfficheDarkmode](https://user-images.githubusercontent.com/109313204/210260868-a86c4bd1-286a-4550-ad6c-92af147e7a57.png)
+<img src="https://github.com/faroukx/Obsidian-shiba-uni-theme/blob/main/img/showcase/Shibaunicanvas.png?raw=true">
 
 
 ## Editor
@@ -51,9 +52,10 @@ You can style anything in your vault, including... :
   
 ## Miscellaneous
 
-Miscellaneous are cool features that are compatible with the Shiba Uni theme such as the translucent control panel:
+Miscellaneous are cool features that are compatible with Shiba Uni theme and even have their own features for other css 
 
-![transulentaffiche](https://user-images.githubusercontent.com/109313204/210192036-a4136ca5-a410-4bab-a108-5ecd0c89a121.jpg)
+[minimal cards](https://github.com/kepano/obsidian-minimal/blob/master/src/scss/features/cards.scss) with Shiba Uni style for example:
+<img src="https://github.com/faroukx/Obsidian-shiba-uni-theme/blob/main/img/shibaminimalcards.png?raw=true">
 
   
 ## Workspace
