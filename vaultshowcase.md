@@ -17,4 +17,5 @@
 
 `Others`
 <img src="https://github.com/faroukx/Obsidian-shiba-uni-theme/blob/main/img/faroukvault/4worksetupdark.png?raw=true">
+<img src="https://github.com/faroukx/Obsidian-shiba-uni-theme/blob/main/img/faroukvault/5cardsworkspace.png?raw=true">
 
