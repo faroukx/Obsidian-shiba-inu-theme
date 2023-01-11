@@ -36,8 +36,8 @@ If you have any questions, suggestions or requirements for implementation, pleas
 You can choose the background colors of your vault and even the accents to have the setup that suits you. <br>
 _Available with the Style Settings plugin._
   
-![Affiche1Lightmode-0](https://user-images.githubusercontent.com/109313204/210191460-d6272079-931d-4f02-8498-9feadb2794dd.png)
-![AfficheDarkmode](https://user-images.githubusercontent.com/109313204/210260868-a86c4bd1-286a-4550-ad6c-92af147e7a57.png)
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Affiche1Lightmode.png?raw=true">
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Affiche1Darkmode.png?raw=true">
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Shibacanvas.png?raw=true">
 
 
