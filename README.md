@@ -77,7 +77,7 @@ Miscellaneous are cool features that are compatible with Shiba Inu theme and eve
 Special thanks to [@melnh](https://github.com/melnhh) for helping me to fix problems in the theme and make it more nice.
   
 Thank you for using the Shiba Inu theme!
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/Shiba-Uni-Background.jpg?raw=true">
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/Shiba-Inu-Background.jpg?raw=true">
 
 
 
