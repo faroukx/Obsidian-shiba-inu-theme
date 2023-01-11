@@ -45,9 +45,9 @@ _Available with the Style Settings plugin._
 You can style anything in your vault, including... :
 
 
-![headers-0](https://user-images.githubusercontent.com/109313204/210895815-6b57653e-1f65-4bd7-940f-41d39375a203.png)
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/fonts-header.png?raw=true">
 
-![customcallouts-tabs-button-0 (1)](https://user-images.githubusercontent.com/109313204/210895800-c1175662-2696-4d3f-8a19-46aef49823c0.png)
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/callouts.png?raw=true">
   
 ## Miscellaneous
 
