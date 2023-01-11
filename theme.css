@@ -1,14 +1,14 @@
 /*
 
 ────────────────────────────────────────────────────────────────────────────
-───────────────────── ▼ SHIBA UNI THEME FOR OBSIDIAN ▼ ─────────────────────
+───────────────────── ▼ SHIBA INU THEME FOR OBSIDIAN ▼ ─────────────────────
 ─────────────────────      ⛛ 柴犬の黒曜石のテーマ ⛛       ─────────────────────
 ──────────── ～ A japanese styled Theme for Obsidian by Farouk ─────────────
 ────────────────────────────────────────────────────────────────────────────
 
 /* Message from the creator
 This theme has been inspired by the features of other themes from the Obsidian community, the features have been adjusted and not copied.
-If you are a creator and have an idea for the Shiba Uni theme do not hesitate to contact me on my networks below.
+If you are a creator and have an idea for the Shiba Inu theme do not hesitate to contact me on my networks below.
 */
 
 /* Thanks to:
@@ -24,7 +24,7 @@ If you are a creator and have an idea for the Shiba Uni theme do not hesitate to
 ─────────────────── WEB ─────────────────────
 
 Links
-   ✵ Github: https://github.com/faroukx/Obsidian-shiba-uni-theme
+   ✵ Github: https://github.com/faroukx/Obsidian-shiba-inu-theme
    ✵ Theme Tutorial Vault: https://github.com/faroukx/obsidian-homepage
    ✵ Forum Thread: (Not available yet)
 
@@ -60,7 +60,7 @@ Fonts
 
 
 /* @settings
-name: Shiba Uni Theme
+name: Shiba Inu Theme
 id: shiba-theme-settings
 settings:
 
@@ -1201,14 +1201,14 @@ settings:
 - 
   id: shib-misc-element-header
   title: Miscellaneous
-  description: Special features adapted for the Shiba Uni theme. 
+  description: Special features adapted for the Shiba Inu theme. 
   type: heading
   level: 1
   collapsed: true
 -
   id: shib-misc-snippets-settings
   title: Snippets
-  description: Customization of snippets adapted to the Shiba Uni theme.
+  description: Customization of snippets adapted to the Shiba Inu theme.
   type: heading
   level: 2
   collapsed: true
