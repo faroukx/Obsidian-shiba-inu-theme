@@ -54,7 +54,7 @@ You can style anything in your vault, including... :
 Miscellaneous are cool features that are compatible with Shiba Inu theme and even have their own features for other css 
 
 [minimal cards](https://github.com/kepano/obsidian-minimal/blob/master/src/scss/features/cards.scss) with Shiba Inu style for example:
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/shibaminimalcards.png?raw=true">
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/shibaminimalcards.png?raw=true">
 
   
 ## Workspace
