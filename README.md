@@ -5,7 +5,7 @@
 
 
   <a href="https://github.com/faroukx/handle-path-oz">
-    <img width="16%" align="right" alt="Farouk's github stats" src="https://user-images.githubusercontent.com/109313204/210188991-90181242-5193-472e-8d98-023209b9a2ef.png" />
+    <img width="16%" align="right" alt="Farouk's github stats" src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/ShibaCircleFrame.png?raw=true" />
   </a> <br> Shiba Inu Theme for Obsidian.md <br> 柴犬の黒曜石のテーマ <br> ～ A japanese styled Theme for Obsidian by Farouk <br> 
   
   
