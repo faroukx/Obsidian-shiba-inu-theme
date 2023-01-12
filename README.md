@@ -59,8 +59,8 @@ Miscellaneous are cool features that are compatible with Shiba Inu theme and eve
   
 ## Workspace
 
-#### Colorful Folders
-![colorfulfonts](https://user-images.githubusercontent.com/109313204/211130894-9e4627e3-b2e7-43de-91ec-abeabe7094f3.png)
+#### Colorful Folders & Folders/Files Icons
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/colorfuls%20folders%20and%20icons%20for%20folders%20files.png?raw=true">
 
 
 
