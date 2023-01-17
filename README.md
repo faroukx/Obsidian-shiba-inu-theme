@@ -1,4 +1,3 @@
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/shibainubackgroundshowcase.png?raw=true">
 
 
 ## Shiba Inu Theme ～ **柴犬のテーマ** ～ A japanese styled Theme for Obsidian
