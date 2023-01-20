@@ -73,8 +73,19 @@ Miscellaneous are cool features that are compatible with Shiba Inu theme and eve
 
 
 ## Acknowledgements
-  
-Special thanks to [@melnh](https://github.com/melnhh) for helping me to fix problems in the theme and make it more nice.
+**Message from the creator**
+This theme was inspired by the features of other themes from the Obsidian community, the features were adjusted and not copied.
+
+**This theme is inspired by:**
+- @whyt-byte - Blue Topaz theme for the translucent panel and workspace background image. 
+- @ceciliamay - Primary theme for the vault and file explorer design.
+- Catppuccin theme for color ideas.
+
+**Other than that, the Shiba Inu theme is basically built by Farouk and the credits go to him.**
+
+**Thanks to:**
+- @melnhh for the colored folders and for the fonts.    
+
   
 Thank you for using the Shiba Inu theme!
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/Shiba-Inu-Background.jpg?raw=true">
