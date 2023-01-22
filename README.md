@@ -1,21 +1,22 @@
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/shibainubackgroundshowcase.png?raw=true">
 
 
-## Shiba Inu Theme ～ **柴犬のテーマ** ～ A japanese styled Theme for Obsidian
+## ◇ Shiba Inu Theme ～ **柴犬のテーマ** ～ A japanese styled Theme for Obsidian ◆
 
 
   <a href="https://github.com/faroukx/handle-path-oz">
     <img width="16%" align="right" alt="Farouk's github stats" src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/ShibaCircleFrame.png?raw=true" />
   </a> <br> Shiba Inu Theme for Obsidian.md <br> 柴犬の黒曜石のテーマ <br> ～ A japanese styled Theme for Obsidian by Farouk <br> 
-  
-  
-Designed for those who want a soft, comfortable workspace with a Japanese touch—like a Shiba Inu—to enhance your Obsidian experience.
 
-<center>
-  <a href='https://www.buymeacoffee.com/faroukx'  target='_blank'><img height='55' style='border:0px;height:55px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-orange.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</center>
+<br> Designed for those who want a soft, comfortable workspace with a Japanese touch—like a Shiba Inu—to enhance your Obsidian experience.
+<br>
+  
 
-**I highly recommend to install the Style Settings plugin in the Plugins Community Store for a more pleasant use of the theme.**
+## To-read
+
+I am looking for designers who want to be part of the Shiba Inu team, if you are interested and are willing to contribute to the theme, feel free to contact me on discord; [Farouk#9239](https://discord.com/) or on the forum; [Farouk](https://forum.obsidian.md/u/Farouk/summary).
+
+**I highly recommend to install the Style Settings plugin in the Plugins Community Store for a more pleasant use of the theme.** 
 
   
 ## Tutorial
@@ -89,6 +90,10 @@ This theme was inspired by the features of other themes from the Obsidian commun
   
 Thank you for using the Shiba Inu theme!
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/Shiba-Inu-Background.jpg?raw=true">
+
+<center>
+  <a href='https://www.buymeacoffee.com/faroukx'  target='_blank'><img height='55' style='border:0px;height:55px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-orange.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</center>
 
 
 
