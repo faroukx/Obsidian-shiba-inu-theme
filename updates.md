@@ -1,5 +1,6 @@
 # UPDATES
 
+
 `1.0.5` `Minimal cards horizontal bar customization`
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/updates/1.0.5%20minimal%20cards.png?raw=true">
 
