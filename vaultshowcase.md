@@ -1,4 +1,4 @@
-# VAULT SHOWCASE Using Shiba inu Theme
+# VAULT SHOWCASE of Shiba Inu Theme users
 
 `Dark Mode Homepage Showcase Using Shiba inu Theme`
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/faroukvault/3faroukhomepagedark.png?raw=true">
