@@ -1,23 +1,16 @@
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/shibainubackgroundshowcase.png?raw=true">
 
 
-## ◇ Shiba Inu Theme ～ **柴犬のテーマ** ～ A japanese styled Theme for Obsidian ◆
-
+## Shiba Inu Theme ～ **柴犬のテーマ** ～ A japanese styled Theme for Obsidian 
+> I don't consider myself a CSS developer, but the desire to create an Obsidian theme led me to delve into the world of styling. The Shiba Inu theme was created with a personal touch, infusing my favorite colors and features from other themes. I am deeply grateful to the talented designers in the theme community who continually fuel my creativity. It is my sincere hope that this theme will captivate you, just as it did me, and that together we can make it better.
 
   <a href="https://github.com/faroukx/handle-path-oz">
-    <img width="16%" align="right" alt="Farouk's github stats" src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/ShibaCircleFrame.png?raw=true" />
+    <img width="20%" align="right" alt="Farouk's github stats" src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/ShibaCircleFrame.png?raw=true" />
   </a> <br> Shiba Inu Theme for Obsidian.md <br> 柴犬の黒曜石のテーマ <br> ～ An elegant, Japanese-inspired theme for Obsidian, created by Farouk. <br> 
 
 <br> Designed for those who are looking for a comfortable and serene work environment with a Japanese touch —like a Shiba Inu— to bring a peaceful atmosphere to your Obsidian experience. 
 Shiba Inu is conceived to stimulate your creativity and your productivity.
 <br>
-  
-
-## To-read
-
-I am looking for designers who want to be part of the Shiba Inu team, if you are interested and are willing to contribute to the theme, feel free to contact me on discord; [Farouk#9239](https://discord.com/) or on the forum; [Farouk](https://forum.obsidian.md/u/Farouk/summary).
-
-**I highly recommend to install the Style Settings plugin in the Plugins Community Store for a more pleasant use of the theme.** 
 
   
 ## Tutorial
@@ -40,7 +33,6 @@ _Available with the Style Settings plugin._
   
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Affiche1Lightmode.png?raw=true">
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Affiche1Darkmode.png?raw=true">
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Shibacanvas.png?raw=true">
 
 
 ## Editor
@@ -61,17 +53,20 @@ Miscellaneous are cool features that are compatible with Shiba Inu theme and eve
   
 ## Workspace
 
-#### Colorful Folders & Folders/Files Icons
+### Colorful Folders & Folders/Files Icons
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/colorfuls%20folders%20and%20icons%20for%20folders%20files.png?raw=true">
 
 
 
-#### Workspace Card Layout
+### Workspace Card Layout
 ![cards layout-0](https://user-images.githubusercontent.com/109313204/210895712-6427a41b-e43f-4680-a2ca-9040940f516a.png)
 
 
-#### Workspace Background Image
+### Workspace Background Image
 ![Background-Image!!!](https://user-images.githubusercontent.com/109313204/210877444-2fa065bf-c08c-4dbb-bc6c-2b2e9a60a5f3.jpg)
+
+### Canvas
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Shibacanvas.png?raw=true">
 
 
 ## Acknowledgements
@@ -79,16 +74,20 @@ Miscellaneous are cool features that are compatible with Shiba Inu theme and eve
 This theme was inspired by the features of other themes from the Obsidian community, the features were adjusted and not copied.
 
 **This theme is inspired by:**
-- @whyt-byte - Blue Topaz theme for the translucent panel and workspace background image. 
-- @ceciliamay - Primary theme for the vault and file explorer design.
-- Catppuccin theme for color ideas.
+- [@whyt-byte](https://github.com/whyt-byte) - [Blue Topaz theme](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) for the translucent panel and workspace background image. 
+- [@ceciliamay](https://github.com/ceciliamay) - [Primary theme](https://github.com/ceciliamay/obsidianmd-theme-primary) for the vault and file explorer design.
+- [Catppuccin](https://github.com/catppuccin/obsidian) theme for color ideas.
 
-**Other than that, the Shiba Inu theme is basically built by Farouk and the credits go to him.**
 
 **Thanks to:**
-- @melnhh for the colored folders and for the fonts.    
+- [@melnhh](https://github.com/melnhh) for the fonts.    
 
-  
+## To-read
+
+I am looking for designers who want to be part of the Shiba Inu team, if you are interested and are willing to contribute to the theme, feel free to contact me on discord; [Farouk#9239](https://discord.com/) or on the forum; [Farouk](https://forum.obsidian.md/u/Farouk/summary).
+
+**I highly recommend to install the Style Settings plugin in the Plugins Community Store for a more pleasant use of the theme.** 
+
 Thank you for using the Shiba Inu theme!
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/Shiba-Inu-Background.jpg?raw=true">
 
