@@ -14,6 +14,7 @@
 
 `Minimal Cards Snippets Showcase using Shiba inu Theme`
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/faroukvault/2myanimelist.png?raw=true">
+
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/faroukvault/6minimalcards.png?raw=true">
 
 `Workspace Background`
