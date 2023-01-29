@@ -16,6 +16,10 @@
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/faroukvault/2myanimelist.png?raw=true">
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/faroukvault/6minimalcards.png?raw=true">
 
+`Workspace Background`
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/faroukvault/7workspacebackground.png?raw=true">
+
+
 `Others`
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/faroukvault/4worksetupdark.png?raw=true">
 
