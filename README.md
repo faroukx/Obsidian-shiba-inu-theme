@@ -51,7 +51,10 @@ You can style anything in your vault, including... :
 
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/callouts.png?raw=true">
 
-### Custom checkboxes 
+### Custom checkboxes & blockquotes
+
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/checkboxes-and-blockquotes.png?raw=true">
+
 
 | Syntax | Description |
 |--------|-------------|
