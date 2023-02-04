@@ -19,55 +19,77 @@ Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx): [Tut
 If you have any questions, suggestions or requirements for implementation, please contact me on discord: Farouk#9239.
 
 ## Links
-   ✵ Github: https://github.com/faroukx/Obsidian-shiba-inu-theme <br>
-   ✵ Theme Tutorial Vault: https://github.com/faroukx/obsidian-homepage <br>
-   ✵ Forum Thread: https://forum.obsidian.md/t/theme-shiba-inu/53395
+- Github: https://github.com/faroukx/Obsidian-shiba-inu-theme <br>
+- Theme Tutorial Vault: https://github.com/faroukx/obsidian-homepage <br>
+- Forum Thread: https://forum.obsidian.md/t/theme-shiba-inu/53395
 
 ## About Shiba Inu Theme
 - [Colors](#Colors)
-- [Editor](#Editor)
-- [Miscellaneous](#Miscellaneous)
+- [Editor & Miscellaneous](#Editor & Miscellaneous)
 - [Workspace](#Workspace)
-  
+- [Snippets and plugins integration](#Snippets and plugins integration)
   
  
 ## Colors
-You can choose the background colors of your vault and even the accents to have the setup that suits you. <br>
+Customize your vault's appearance to your personal taste by selecting from a variety of background colors and accent options. <br>
 _Available with the Style Settings plugin._
   
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Affiche1Lightmode.png?raw=true">
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Affiche1Darkmode.png?raw=true">
+
+| Light Mode                                                                               | Dark Mode                                                                               |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche1Lightmode.png?raw=true"> | <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche1Darkmode.png?raw=true"> |
 
 
-## Editor
+## Editor & Miscellaneous
 You can style anything in your vault, including... :
 
+### Custom headers, Italic & Bold texts
 
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/fonts-header.png?raw=true">
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/fonts-and-custom-texts.png?raw=true">
+
+### Custom callouts & buttons
 
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/callouts.png?raw=true">
+
+### Custom checkboxes 
+
+| Syntax | Description |
+|--------|-------------|
+| `- [ ]`  | Unchecked   |
+| `- [x]`  | Checked     |
+| `- [>]`  | Rescheduled |
+| `- [<]`  | Scheduled   |
+| `- [!]`  | Important   |
+| `- [-]`  | Cancelled   |
+| `- [/]`  | In Progress |
+| `- [?]`  | Question    |
+| `- [*]`  | Star        |
+| `- [n]`  | Note        |
+| `- [l]`  | Location    |
+| `- [i]`  | Information |
+| `- [I]`  | Idea        |
+| `- [S]`  | Amount      |
+| `- [p]`  | Pro         |
+| `- [c]`  | Con         |
+| `- [b]`  | Bookmark    |
+| `- [s]`  | Study       |
+| `- [r]`  | Reminder    |
   
-## Miscellaneous
-
-Miscellaneous are cool features that are compatible with Shiba Inu theme and even have their own features for other css 
-
-[minimal cards](https://github.com/kepano/obsidian-minimal/blob/master/src/scss/features/cards.scss) with Shiba Inu style for example:
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/shibaminimalcards.png?raw=true">
-
   
 ## Workspace
 
 ### Colorful Folders & Folders/Files Icons
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/colorfuls%20folders%20and%20icons%20for%20folders%20files.png?raw=true">
 
-
-
-### Workspace Card Layout
-![cards layout-0](https://user-images.githubusercontent.com/109313204/210895712-6427a41b-e43f-4680-a2ca-9040940f516a.png)
-
-
 ### Workspace Background Image
-![Background-Image!!!](https://user-images.githubusercontent.com/109313204/210877444-2fa065bf-c08c-4dbb-bc6c-2b2e9a60a5f3.jpg)
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/workspacebackground.png?raw=true">
+
+
+### Snippets and plugins integration
+I've added some exciting new features to the snippets and plugins that work seamlessly with the Shiba Inu theme, for example:
+
+[Minimal Cards](https://github.com/kepano/obsidian-minimal/blob/master/src/scss/features/cards.scss) with Shiba Inu style:
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/shibaminimalcards.png?raw=true">
 
 ### Canvas
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Shibacanvas.png?raw=true">
@@ -77,9 +99,9 @@ Miscellaneous are cool features that are compatible with Shiba Inu theme and eve
 **Message from the creator**
 This theme was inspired by the features of other themes from the Obsidian community, the features were adjusted and not copied.
 
-**This theme is inspired by:**
+**CREDITS - This theme is inspired by:**
 - [@whyt-byte](https://github.com/whyt-byte) - [Blue Topaz theme](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) for the translucent panel and workspace background image. 
-- [@ceciliamay](https://github.com/ceciliamay) - [Primary theme](https://github.com/ceciliamay/obsidianmd-theme-primary) for the vault and file explorer design.
+- [@ceciliamay](https://github.com/ceciliamay) - [Primary theme](https://github.com/ceciliamay/obsidianmd-theme-primary) for the vault and file explorer design, and for the custom checkboxes.
 - [Catppuccin](https://github.com/catppuccin/obsidian) theme for color ideas.
 
 
