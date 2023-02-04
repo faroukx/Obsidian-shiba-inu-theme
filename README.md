@@ -25,9 +25,9 @@ If you have any questions, suggestions or requirements for implementation, pleas
 
 ## About Shiba Inu Theme
 - [Colors](#Colors)
-- [Editor & Miscellaneous](#Editor & Miscellaneous)
+- [Editor and Miscellaneous](#Editor-and-Miscellaneous)
 - [Workspace](#Workspace)
-- [Snippets and plugins integration](#Snippets and plugins integration)
+- [Snippets and plugins integration](#Snippets-and-plugins-integration)
   
  
 ## Colors
