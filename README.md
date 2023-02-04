@@ -40,7 +40,7 @@ _Available with the Style Settings plugin._
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche1Lightmode.png?raw=true"> | <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche1Darkmode.png?raw=true"> |
 
 
-## Editor & Miscellaneous
+## Editor and Miscellaneous
 You can style anything in your vault, including... :
 
 ### Custom headers, Italic & Bold texts
