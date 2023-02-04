@@ -15,7 +15,7 @@ Shiba Inu is conceived to stimulate your creativity and your productivity.
   
 ## Tutorial
 
-Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx): [Tutorial Link](https://github.com/faroukx/obsidian-homepage) (Working on it)<br>
+Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx): [Tutorial Link](https://github.com/faroukx/obsidian-homepage)<br>
 If you have any questions, suggestions or requirements for implementation, please contact me on discord: Farouk#9239.
 
 ## Links
