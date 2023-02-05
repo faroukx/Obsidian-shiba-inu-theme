@@ -236,7 +236,7 @@ settings:
     title: Disable H1-H6 Indicators
     description: Removal of H1-H6 indicators in front of titles on mouseover.
     type: class-toggle
-    default: false
+    default: true
 -
     id: shib-h1-header
     title: H1 settings
