@@ -15,8 +15,16 @@ Shiba Inu is conceived to stimulate your creativity and your productivity.
   
 ## Tutorial
 
-Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx): [Tutorial Link](https://github.com/faroukx/obsidian-homepage)<br>
-If you have any questions, suggestions or requirements for implementation, please contact me on discord: Farouk#9239.
+Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx):
+
+> [https://github.com/faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage)<br>
+ 
+
+| Light Mode                                                                               | Dark Mode                                                                               |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/raw/main/img/faroukvault/3faroukhomepagelight.png?raw=true"> | <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/raw/main/img/faroukvault/3faroukhomepagedark.png?raw=true"> |
+
+
 
 ## Links
 - Github: https://github.com/faroukx/Obsidian-shiba-inu-theme <br>
