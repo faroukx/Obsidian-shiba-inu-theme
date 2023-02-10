@@ -333,6 +333,7 @@ settings:
 -
     id: shib-h1-underline
     title: H1 Underline
+    description: You must have the Custom Heading Colors  enabled or, if disabled, have selected a custom color for it to work.
     type: class-toggle
 -
     id: shib-h2-header
@@ -430,6 +431,7 @@ settings:
 -
     id: shib-h2-underline
     title: H2 Underline
+    description: You must have the Custom Heading Colors  enabled or, if disabled, have selected a custom color for it to work.
     type: class-toggle
 -
     id: shib-h3-header
@@ -527,6 +529,7 @@ settings:
 -
     id: shib-h3-underline
     title: H3 Underline
+    description: You must have the Custom Heading Colors  enabled or, if disabled, have selected a custom color for it to work.
     type: class-toggle
 -
     id: shib-h4-header
@@ -624,6 +627,7 @@ settings:
 -
     id: shib-h4-underline
     title: H4 Underline
+    description: You must have the Custom Heading Colors  enabled or, if disabled, have selected a custom color for it to work.
     type: class-toggle
 -
     id: shib-h5-header
@@ -721,6 +725,7 @@ settings:
 -
     id: shib-h5-underline
     title: H5 Underline
+    description: You must have the Custom Heading Colors  enabled or, if disabled, have selected a custom color for it to work.
     type: class-toggle
 -
     id: shib-h6-header
@@ -818,6 +823,7 @@ settings:
 -
     id: shib-h6-underline
     title: H6 Underline
+    description: You must have the Custom Heading Colors  enabled or, if disabled, have selected a custom color for it to work.
     type: class-toggle
 - 
     id: shiba-text-color-header
@@ -826,6 +832,14 @@ settings:
     description: Bold and Italic colors.
     level: 2
     collapsed: true
+-
+    id: text-normal
+    title: Custom Font Color
+    type: variable-themed-color
+    opacity: true
+    format: hex
+    default-light: '#'
+    default-dark: '#'
 - 
     id: shiba-italic-bold-style
     title: Enable Italic and Bold Colors
@@ -1975,3 +1989,4 @@ settings:
     default-light: '#'
     default-dark: '#'
 */
+
