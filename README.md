@@ -16,10 +16,22 @@ Shiba Inu is conceived to stimulate your creativity and your productivity.
 ## Preview (using Style Settings Plugin to customize)
 **Turn on the audio for better inspiration :)**
 
+
+<video id="video" x-webkit-airplay="true" webkit-playsinline="true" controls>
+   <source src="https://user-images.githubusercontent.com/109313204/218333387-2ccfd0c4-dd80-4c99-8614-ca16db2e5d7f.mp4" type="video/mp4">
+</video>
+
+<video id="video" x-webkit-airplay="true" webkit-playsinline="true" controls>
+   <source src="https://user-images.githubusercontent.com/109313204/218333377-e68ae97a-3a2b-400f-8d64-61cd95d6c2f5.mp4" type="video/mp4">
+</video>
+
+%%
+
 https://user-images.githubusercontent.com/109313204/218333387-2ccfd0c4-dd80-4c99-8614-ca16db2e5d7f.mp4
 
-
 https://user-images.githubusercontent.com/109313204/218333377-e68ae97a-3a2b-400f-8d64-61cd95d6c2f5.mp4
+
+%%
 
   
 ## Tutorial
