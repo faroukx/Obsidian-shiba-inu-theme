@@ -1,6 +1,7 @@
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/shibainubackgroundshowcase.png?raw=true">
 
 
+
 ## Shiba Inu Theme ～ **柴犬のテーマ** ～ A japanese styled Theme for Obsidian 
 > I don't consider myself a CSS developer, but the desire to create an Obsidian theme led me to delve into the world of styling. The Shiba Inu theme was created with a personal touch, infusing my favorite colors and features from other themes. I am deeply grateful to the talented designers in the theme community who continually fuel my creativity. It is my sincere hope that this theme will captivate you, just as it did me, and that together we can make it better.
 
@@ -11,6 +12,14 @@
 <br> Designed for those who are looking for a comfortable and serene work environment with a Japanese touch —like a Shiba Inu— to bring a peaceful atmosphere to your Obsidian experience. 
 Shiba Inu is conceived to stimulate your creativity and your productivity.
 <br>
+
+## Preview (using Style Settings Plugin to customize)
+**Turn on the audio for better inspiration :)**
+
+https://user-images.githubusercontent.com/109313204/218333387-2ccfd0c4-dd80-4c99-8614-ca16db2e5d7f.mp4
+
+
+https://user-images.githubusercontent.com/109313204/218333377-e68ae97a-3a2b-400f-8d64-61cd95d6c2f5.mp4
 
   
 ## Tutorial
