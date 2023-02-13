@@ -32,10 +32,23 @@ name: Shiba Inu Theme
 id: shiba-theme-settings
 settings:
 
+-
+  id: shiba-inu-support
+  title:  ૮ ºﻌºა Welcome
+  type: info-text
+  description:  |
+    Welcome to Shiba Inu theme for Obsidian! If you need any assistance, please [submit an issue](https://github.com/faroukx/Obsidian-shiba-inu-theme/issues) on GitHub.
+    - **[Github](https://github.com/faroukx/Obsidian-shiba-inu-theme)**
+    - **[Obsidian Homepage by Farouk (Tutorial for Shiba Inu)](https://github.com/faroukx/obsidian-homepage)**    
+    - **[Obsidian forum thread for Shiba Inu (Shiba Inu Community)](https://forum.obsidian.md/t/theme-shiba-inu/53395)**     
+  markdown: true
+
+#───────────────────────────────────── C O L O R S ──────────────────────────────────────  (Colors Settings)
+
 - 
     id: shiba-colors-header
     title: Colors
-    description: Color palettes, accents and styling.
+    description: Customize the look and feel of the theme with color palettes, accents and styling.
     type: heading
     level: 1
     collapsed: true
@@ -137,7 +150,7 @@ settings:
     title: Custom Palette 
     type: heading
     description: Customize your own color palette!
-    level: 4
+    level: 2
     collapsed: true
 - 
     id: background-primary
@@ -196,7 +209,7 @@ settings:
   title: Custom Accents 
   type: heading
   description: Customize your own accent color!
-  level: 4
+  level: 2
   collapsed: true
 - 
     id: color-accent
@@ -207,11 +220,14 @@ settings:
     format: hex
     default-light: '#'
     default-dark: '#'
+
+#───────────────────────────────────── E D I T O R ──────────────────────────────────────  (Editor Settings)
+
 - 
     id: shiba-editor-header
-    title: Editor (advanced)
+    title: Editor 
     type: heading
-    description: Personalization of the features in the note including colors.
+    description: Personalize the look of headers, texts, blockquotes, callouts, and other elements in your notes.
     level: 1
     collapsed: true
 - 
@@ -986,7 +1002,7 @@ settings:
   id: img-border-radius
   title: Image Border Radius (any unit, no space)
   type: variable-text
-  default: 15px
+  default: 0px
 -
     id: link-style
     title: Links 
@@ -1300,10 +1316,13 @@ settings:
     -
       label: Quotation mark
       value: blockquote-style-quotation-mark
+
+#────────────────────────────── M I S C E L L A N E O U S ───────────────────────────────  (Miscellaneous Settings)
+
 - 
   id: shib-misc-element-header
   title: Miscellaneous
-  description: Special features adapted for the Shiba Inu theme. 
+  description: Unique features specifically designed for the Shiba Inu theme.
   type: heading
   level: 1
   collapsed: true
@@ -1355,10 +1374,13 @@ settings:
   description: Make the background of the panel completely transparent
   type: class-toggle
   default: false
+
+#────────────────────────────────── W O R K S P A C E ───────────────────────────────────  (Workspace Settings)
+
 -
     id: shib-workspace-header
     title: Workspace 
-    description: Settings of all features that are relevant to the workspace.
+    description: Configure all relevant workspace settings.
     type: heading
     level: 1
     collapsed: true
@@ -1488,9 +1510,25 @@ settings:
   description: Size unit is px
   type: variable-number-slider
   default: 0.9
-  min: 0.1
+  min: 0
   max: 1.0
   step: 0.01
+- 
+  id: nav-item-color
+  title: Custom Color of Note Title
+  type: variable-themed-color
+  opacity: true
+  format: hex
+  default-light: '#2486ff'
+  default-dark: '#b3b3b3'
+- 
+  id: nav-folder-title-color
+  title: Custom Color of Folder Title
+  type: variable-themed-color
+  opacity: true
+  format: hex
+  default-light: '#2486ff'
+  default-dark: '#b3b3b3'
 - 
   id: custom-folders-colors-header
   title: Custom Folders Colors
@@ -1907,10 +1945,13 @@ settings:
   description: Customize the background image. Use the default format below for an online image. Use the following format to point to a local file - url("app://local/D:/Pictures/Mountain.jpg").
   type: variable-text
   default: url("https://") 
+
+#──────────────────────────────── C O M P L E M E N T S ───────────────────────────────── (Complements Settings)
+
 -
   id: shib-snippets-plugins-settings
-  title: Snippets & Plugins
-  description: Customization of snippets adapted to the Shiba Inu theme.
+  title: Complements
+  description: Customized snippets and plugins for the Shiba Inu theme.
   type: heading
   level: 1
   collapsed: true
@@ -1987,5 +2028,25 @@ settings:
     format: hex
     default-light: '#'
     default-dark: '#'
+-
+    id: shiba-inu-support-header
+    title: ❤️ Support
+    type: heading
+    level: 1
+    collapsed: false
+-
+  id: shiba-inu-support
+  title: 
+  level: 1
+  type: info-text
+  description:  |
+    Created by [Farouk](https://github.com/faroukx).
+    
+    If you appreciate the theme, you can show your support by...
+    - [Buying me a coffee](https://www.buymeacoffee.com/faroukx) ☕️
+    - [Starring the theme on GitHub](https://github.com/faroukx/Obsidian-shiba-inu-theme) ⭐
+    
+    If you enjoyed using the theme, consider sharing it with members of the community on the Discord or forum to help grow our community together!    
+  markdown: true
 */
 
