@@ -113,10 +113,10 @@ _Available with the Style Settings plugin._
   
 ## Workspace
 
-##### Colorful folders, icons for files and folders, and vault title
+#### Colorful folders, icons for files and folders, and vault title
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche%20Colorful.png?raw=true">
 
-##### Workspace Background Image
+#### Workspace Background Image
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche%20BackgroundWorkspace.png?raw=true">
 
 ## Complements
