@@ -54,9 +54,10 @@ Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx):
 
 ## About Shiba Inu Theme
 - [Colors](#Colors)
-- [Editor and Miscellaneous](#Editor-and-Miscellaneous)
+- [Editor](#Editor)
+- [Miscellaneous](#Miscellaneous)
 - [Workspace](#Workspace)
-- [Snippets and plugins integration](#Snippets-and-plugins-integration)
+- [Complements](#Complements)
   
  
 ## Colors
@@ -69,21 +70,22 @@ _Available with the Style Settings plugin._
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche1Lightmode.png?raw=true"> | <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche1Darkmode.png?raw=true"> |
 
 
-## Editor and Miscellaneous
-You can style anything in your vault, including... :
+## Editor 
+#### Customization
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche%20Editor.png?raw=true">
 
-### Custom headers, Italic & Bold texts
 
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/fonts-and-custom-texts.png?raw=true">
+**With Style Settings plugin enabled**, ou can style _headers_, _text_, _images_, _links_, _lists_, _tables_, _code blocks_, _callouts_, _tabs_ and other elements to complement your theme.
 
-### Custom callouts & buttons
+#### Styles
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche%20Editor%202.png?raw=true">
 
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/callouts.png?raw=true">
 
-### Custom checkboxes & blockquotes
+## Miscellaneous
 
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/checkboxes-and-blockquotes.png?raw=true">
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Shiba%20Miscellaneous.png?raw=true">
 
+#### Personalized checkboxes 
 
 | Syntax | Description |
 |--------|-------------|
@@ -106,25 +108,19 @@ You can style anything in your vault, including... :
 | `- [b]`  | Bookmark    |
 | `- [s]`  | Study       |
 | `- [r]`  | Reminder    |
-  
+ 
+
   
 ## Workspace
 
-### Colorful Folders & Folders/Files Icons
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/colorfuls%20folders%20and%20icons%20for%20folders%20files.png?raw=true">
+##### Colorful folders, icons for files and folders, and vault title
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche%20Colorful.png?raw=true">
 
-### Workspace Background Image
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/workspacebackground.png?raw=true">
+##### Workspace Background Image
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche%20BackgroundWorkspace.png?raw=true">
 
-
-### Snippets and plugins integration
-I've added some exciting new features to the snippets and plugins that work seamlessly with the Shiba Inu theme, for example:
-
-[Minimal Cards](https://github.com/kepano/obsidian-minimal/blob/master/src/scss/features/cards.scss) with Shiba Inu style:
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/shibaminimalcards.png?raw=true">
-
-### Canvas
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/Shibacanvas.png?raw=true">
+## Complements
+Adding some exciting new features to the snippets and plugins that work seamlessly with the Shiba Inu theme.
 
 
 ## Acknowledgements
@@ -146,7 +142,8 @@ I am looking for designers who want to be part of the Shiba Inu team, if you are
 
 **I highly recommend to install the Style Settings plugin in the Plugins Community Store for a more pleasant use of the theme.** 
 
-Thank you for using the Shiba Inu theme!
+## Support
+Thank you for using the Shiba Inu theme ❤️ 
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/Shiba-Inu-Background.jpg?raw=true">
 
 <center>
