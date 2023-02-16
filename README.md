@@ -52,7 +52,7 @@ Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx):
 - Theme Tutorial Vault: https://github.com/faroukx/obsidian-homepage <br>
 - Forum Thread: https://forum.obsidian.md/t/theme-shiba-inu/53395
 
-## About Shiba Inu Theme
+## Table of Contents
 - [Colors](#Colors)
 - [Editor](#Editor)
 - [Miscellaneous](#Miscellaneous)
