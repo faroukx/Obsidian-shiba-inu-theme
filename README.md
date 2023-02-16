@@ -87,30 +87,11 @@ _Available with the Style Settings plugin._
 
 #### Personalized checkboxes 
 
-| Syntax | Description |
-|--------|-------------|
-| `- [ ]`  | Unchecked   |
-| `- [x]`  | Checked     |
-| `- [>]`  | Rescheduled |
-| `- [<]`  | Scheduled   |
-| `- [!]`  | Important   |
-| `- [-]`  | Cancelled   |
-| `- [/]`  | In Progress |
-| `- [?]`  | Question    |
-| `- [*]`  | Star        |
-| `- [n]`  | Note        |
-| `- [l]`  | Location    |
-| `- [i]`  | Information |
-| `- [I]`  | Idea        |
-| `- [S]`  | Amount      |
-| `- [p]`  | Pro         |
-| `- [c]`  | Con         |
-| `- [b]`  | Bookmark    |
-| `- [s]`  | Study       |
-| `- [r]`  | Reminder    |
- 
+| Syntax | Description | Result |
+|--------|-------------| ------ |
+| `- [ ]` <br><br> `- [x]`  <br><br> `- [>]` <br><br> `- [<]` <br><br> `- [!]` <br><br>`- [-]` <br><br>`- [/]` <br><br>`- [?]` <br><br>`- [*]` <br><br>`- [n]` <br><br>`- [l]` <br><br> `- [i]` <br><br>`- [I]` <br><br>`- [S]` <br><br>`- [p]` <br><br>`- [c]` <br><br>`- [b]` <br><br>`- [s]` <br><br>`- [r]` | Unchecked <br><br> Checked <br><br> Rescheduled <br><br> Scheduled <br><br> Important <br><br> Cancelled <br><br> In Progress <br><br> Question <br><br> Star <br><br>Note <br><br> Location <br><br> Information <br><br> Idea <br><br> Amount <br><br> Pro <br><br> Con <br><br>Bookmark <br><br> Study <br><br> Reminder |   <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/checkboxes.png?raw=true">  |
 
-  
+
 ## Workspace
 
 #### Colorful folders, icons for files and folders, and vault title
