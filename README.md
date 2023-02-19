@@ -1,4 +1,3 @@
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/shibainubackgroundshowcase.png?raw=true">
 
 
 
