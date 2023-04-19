@@ -9,12 +9,12 @@
 	<br />
 	<a href="https://www.buymeacoffee.com/faroukx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee!&emoji=&slug=faroukx&button_colour=D7BB00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 	<br />   
+</div>
 
 <div align="center">
   <h2>Shiba Inu Theme<span> ～ </span>柴犬のテーマ</h2>
   <h3>An elegant, Japanese-inspired theme for Obsidian, created by Farouk.</h3>
 </div>
-
 
 > I don't consider myself a CSS developer, but the desire to create an Obsidian theme led me to delve into the world of styling. The Shiba Inu theme was created with a personal touch, infusing my favorite colors and features from other themes. I am deeply grateful to the talented designers in the theme community who continually fuel my creativity. It is my sincere hope that this theme will captivate you, just as it did me, and that together we can make it better.
 
