@@ -11,10 +11,7 @@
 	<br />   
 </div>
 
-<div align="center">
-  <h2>Shiba Inu Theme<span> ～ </span>柴犬のテーマ</h2>
-  <h3>An elegant, Japanese-inspired theme for Obsidian, created by Farouk.</h3>
-</div>
+## Shiba Inu Theme ～ 柴犬のテーマ
 
 > I don't consider myself a CSS developer, but the desire to create an Obsidian theme led me to delve into the world of styling. The Shiba Inu theme was created with a personal touch, infusing my favorite colors and features from other themes. I am deeply grateful to the talented designers in the theme community who continually fuel my creativity. It is my sincere hope that this theme will captivate you, just as it did me, and that together we can make it better.
 
@@ -75,11 +72,16 @@ Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx):
 ---
 
 ## Table of Contents
+- [Preview](#Preview-(using-Style-Settings-Plugin-to-customize))
+- [Tutorial](#Tutorial)
+- [Links](#Links)
 - [Colors](#Colors)
 - [Editor](#Editor)
 - [Miscellaneous](#Miscellaneous)
 - [Workspace](#Workspace)
 - [Complements](#Complements)
+- [Acknowledgements](#Acknowledgements)
+- [License](#License)
  
 ---
  
