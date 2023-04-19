@@ -72,7 +72,6 @@ Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx):
 ---
 
 ## Table of Contents
-- [Preview](#Preview-(using-Style-Settings-Plugin-to-customize))
 - [Tutorial](#Tutorial)
 - [Links](#Links)
 - [Colors](#Colors)
