@@ -164,7 +164,7 @@ This theme was inspired by the features of other themes from the Obsidian commun
 - [@whyt-byte](https://github.com/whyt-byte) - [Blue Topaz theme](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) for the translucent panel and workspace background image. 
 - [@ceciliamay](https://github.com/ceciliamay) - [Primary theme](https://github.com/ceciliamay/obsidianmd-theme-primary) for the vault and file explorer design, and for the custom checkboxes.
 - [Catppuccin](https://github.com/catppuccin/obsidian) theme for color ideas.
-- [Prism theme](https://github.com/damiankorcz/Prism-Theme) for the README.md badges interface.
+- [@damiankorcz](https://github.com/damiankorcz) - [Prism theme](https://github.com/damiankorcz/Prism-Theme) for the README.md badges interface.
 
 
 **Thanks to:**
