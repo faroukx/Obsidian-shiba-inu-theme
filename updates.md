@@ -1,14 +1,86 @@
-# UPDATES
+# UPDATES (RELEASES)
 
 
-`1.0.5` `Minimal cards horizontal bar customization`
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/updates/1.0.5%20minimal%20cards.png?raw=true">
+##`V1.0.8` Minimal cards horizontal bar customization
 
-`1.0.4` `Custom accents colors`
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/updates/1.0.4%20custom%20accent%20color.png?raw=true">
+## `V1.0.7` - Beautifully refreshed folder icons, customizable graph view colors and solved problems with callouts and dividing line.
 
-`1.0.3` `Folders files icons`
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/updates/1.0.3%20folders%20files%20icons.png?raw=true">
+📌 [1.0.7 Release link](https://github.com/faroukx/Obsidian-shiba-inu-theme/releases/tag/v.1.0.7)
 
-`1.0.2` `Colorful Folders`
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/updates/1.0.2%20colorful%20folders.png?raw=true">
+🛠️ **Technical** 
+- Resolved the problem of callouts for non-users of style settings
+- Resolved the problem of displaying the dividing line
+- Improved the accents colors for Ivory, Stone and Lily
+- Improved the colorful folders six styles
+
+🖌️ **New**
+- Custom colors of the graph view
+- Change colorful folder icons + news icons
+- Custom icon for vault titles
+
+## `V1.0.6` - Enhanced Colors Palette, Shiba Inu Interface Update, and Custom Blockquotes & Checkboxes
+
+📌 [1.0.6 Release link](https://github.com/faroukx/Obsidian-shiba-inu-theme/releases/tag/v.1.0.6)
+
+🛠️ **Technical** 
+- Improved the color palette of the theme.
+- Other customizations have been made to improve the theme.
+- Improved the README page for better documentation.
+
+🖌️ **New**
+- Added custom checkboxes thanks to the Primary theme.
+- Added custom block quote styles.
+- Added settings for images with adjustable borders
+
+
+
+## `V1.0.5` - Minimal Cards snippet & Horizontal Bar customization!
+
+📌 [1.0.5 Release link](https://github.com/faroukx/Obsidian-shiba-inu-theme/releases/tag/v.1.0.5)
+
+🛠️ **Technical** 
+- Redesigned the minimal cards snippet.
+
+🖌️ **New**
+- Added color and customization of the **horizontal bar** (see image).
+- three new different styles are available for **Minimal Cards**.
+
+## `V1.0.4` - Custom Accent Colors!
+
+📌 [1.0.4 Release link](https://github.com/faroukx/Obsidian-shiba-inu-theme/releases/tag/v.1.0.4)
+
+🛠️ **Technical** 
+- Corrected vault title icon.
+- Match note icon color with accent color.
+
+ 🖌️ **New**
+- Added Custom accent color.
+- Addition of color to the indentation of the collapse (recoloring in rainbow or accent color).
+
+
+
+## `V1.0.3` - Folders and Files Icons + Shiba Uni changed to Shiba Inu
+
+📌 [1.0.3 Release link](https://github.com/faroukx/Obsidian-shiba-inu-theme/releases/tag/v.1.0.3)
+
+🛠️ **Technical**
+- Background Image of the file explorer improved.
+- Improved Ivory light mode color palette.
+
+🖌️ **New**
+- Added Folders and Files Icons.
+
+
+## `V1.0.2` - Colorful Folders
+
+📌 [1.0.2 Release link](https://github.com/faroukx/Obsidian-shiba-inu-theme/releases/tag/v.1.0.2)
+
+🛠️ **Technical**
+-  The colors of the accents have been made better.
+- Fixed the color problem of colorful folders in dark mode.
+- Some issues fixed with the miscellaneous.
+
+🖌️ **New**
+- Added Custom colors plaette (design your workspace to your taste!)
+
+
