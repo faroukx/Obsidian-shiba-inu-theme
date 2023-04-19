@@ -109,8 +109,8 @@ _Available with the Style Settings plugin._
 | `- [/]` | In Progress | 🚧 |
 | `- [?]` | Question | ❓ |
 | `- [*]` | Star | ⭐️ |
-| `- [n]` | Note | 📝 |
-| `- [l]` | Location | 🌍 |
+| `- [n]` | Note | 📌 |
+| `- [l]` | Location | 📍 |
 | `- [i]` | Information | ℹ️ |
 | `- [I]` | Idea | 💡 |
 | `- [S]` | Amount | 💰 |
