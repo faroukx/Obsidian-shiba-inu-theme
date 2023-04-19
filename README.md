@@ -12,8 +12,9 @@
 Shiba Inu is conceived to stimulate your creativity and your productivity.
 <br>
 
+---
+
 ## Preview (using Style Settings Plugin to customize)
-**Turn on the audio for better inspiration :)**
 
 
 <video id="video" x-webkit-airplay="true" webkit-playsinline="true" controls>
@@ -32,6 +33,7 @@ https://user-images.githubusercontent.com/109313204/218333377-e68ae97a-3a2b-400f
 
 %%
 
+---
   
 ## Tutorial
 
@@ -44,12 +46,19 @@ Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx):
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/raw/main/img/faroukvault/3faroukhomepagelight.png?raw=true"> | <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/raw/main/img/faroukvault/3faroukhomepagedark.png?raw=true"> |
 
-
+---
 
 ## Links
+**General**
 - Github: https://github.com/faroukx/Obsidian-shiba-inu-theme <br>
 - Theme Tutorial Vault: https://github.com/faroukx/obsidian-homepage <br>
-- Forum Thread: https://forum.obsidian.md/t/theme-shiba-inu/53395
+- Forum Thread: https://forum.obsidian.md/t/theme-shiba-inu/53395 <br>
+
+**Others**
+- Theme Updates/Releases Note: https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/updates.md 
+- Theme Releases: https://github.com/faroukx/Obsidian-shiba-inu-theme/releases
+
+---
 
 ## Table of Contents
 - [Colors](#Colors)
@@ -57,7 +66,8 @@ Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx):
 - [Miscellaneous](#Miscellaneous)
 - [Workspace](#Workspace)
 - [Complements](#Complements)
-  
+ 
+---
  
 ## Colors
 Customize your vault's appearance to your personal taste by selecting from a variety of background colors and accent options. <br>
@@ -68,6 +78,7 @@ _Available with the Style Settings plugin._
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche1Lightmode.png?raw=true"> | <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche1Darkmode.png?raw=true"> |
 
+---
 
 ## Editor 
 #### Customization
@@ -79,6 +90,7 @@ _Available with the Style Settings plugin._
 #### Styles
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/Affiche%20Editor%202.png?raw=true">
 
+---
 
 ## Miscellaneous
 
@@ -87,9 +99,29 @@ _Available with the Style Settings plugin._
 #### Personalized checkboxes 
 
 | Syntax | Description | Result |
-|--------|-------------| ------ |
-| `- [ ]` <br><br> `- [x]`  <br><br> `- [>]` <br><br> `- [<]` <br><br> `- [!]` <br><br>`- [-]` <br><br>`- [/]` <br><br>`- [?]` <br><br>`- [*]` <br><br>`- [n]` <br><br>`- [l]` <br><br> `- [i]` <br><br>`- [I]` <br><br>`- [S]` <br><br>`- [p]` <br><br>`- [c]` <br><br>`- [b]` <br><br>`- [s]` <br><br>`- [r]` | Unchecked <br><br> Checked <br><br> Rescheduled <br><br> Scheduled <br><br> Important <br><br> Cancelled <br><br> In Progress <br><br> Question <br><br> Star <br><br>Note <br><br> Location <br><br> Information <br><br> Idea <br><br> Amount <br><br> Pro <br><br> Con <br><br>Bookmark <br><br> Study <br><br> Reminder |   <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/showcase/new-images-showcase/checkboxes.png?raw=true">  |
+| ------ | ----------- | ------ |
+| `- [ ]` | Unchecked | ⬜️ |
+| `- [x]` | Checked | ✅ |
+| `- [>]` | Rescheduled | ↗️ |
+| `- [<]` | Scheduled | ↙️ |
+| `- [!]` | Important | ❗ |
+| `- [-]` | Cancelled | ❌ |
+| `- [/]` | In Progress | 🚧 |
+| `- [?]` | Question | ❓ |
+| `- [*]` | Star | ⭐️ |
+| `- [n]` | Note | 📝 |
+| `- [l]` | Location | 🌍 |
+| `- [i]` | Information | ℹ️ |
+| `- [I]` | Idea | 💡 |
+| `- [S]` | Amount | 💰 |
+| `- [p]` | Pro | 👍 |
+| `- [c]` | Con | 👎 |
+| `- [b]` | Bookmark | 🔖 |
+| `- [s]` | Study | 📚 |
+| `- [r]` | Reminder | ⏰ |
 
+
+---
 
 ## Workspace
 
@@ -116,16 +148,34 @@ This theme was inspired by the features of other themes from the Obsidian commun
 **Thanks to:**
 - [@melnhh](https://github.com/melnhh) for the fonts.    
 
-## To-read
+
+**To-read:**
 
 I am looking for designers who want to be part of the Shiba Inu team, if you are interested and are willing to contribute to the theme, feel free to contact me on discord; [Farouk#9239](https://discord.com/) or on the forum; [Farouk](https://forum.obsidian.md/u/Farouk/summary).
 
 **I highly recommend to install the Style Settings plugin in the Plugins Community Store for a more pleasant use of the theme.** 
 
+---
+
 ## Support
 Thank you for using the Shiba Inu theme ❤️ 
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/Shiba-Inu-Background.jpg?raw=true">
 
 <center>
   <a href='https://www.buymeacoffee.com/faroukx'  target='_blank'><img height='55' style='border:0px;height:55px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-orange.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </center>
+
+---
+
+## License
+
+The Shiba Inu Theme is licensed under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+2. If you redistribute a part of my code, please credit my theme in your CSS file, and specify which code you are using. Please keep my Buy Me a Coffee link in your README if you do so.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/Shiba-Inu-Background.jpg?raw=true">
