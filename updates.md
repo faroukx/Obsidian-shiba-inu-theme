@@ -1,7 +1,20 @@
-# UPDATES (RELEASES)
+# 🚀 Updates/Releases Note: All the latest updates and improvements for the theme.
+
+## `V1.0.8` Enhanced themes and exciting new features that you'ill love + All Open Issues Resolved.
+📌 Release not available.
+
+🛠️ **Technical** 
+- Resolved the issue with Quote callouts by implementing a custom solution; [Issue](https://github.com/faroukx/Obsidian-shiba-inu-theme/issues/6).
+- Fixed various display problems with the theme.
+- Improved the accent colors and background colors.
+- Redesigned the Style Settings page for a better aesthetic.
+- Restored the horizontal bar size to its original size.
+- Fixed an issue with the translucent panel for custom and other colors.
 
 
-##`V1.0.8` Minimal cards horizontal bar customization
+🖌️ **New**
+- `*`
+
 
 ## `V1.0.7` - Beautifully refreshed folder icons, customizable graph view colors and solved problems with callouts and dividing line.
 
