@@ -23,7 +23,23 @@
 Shiba Inu is conceived to stimulate your creativity and your productivity.
 <br>
 
+
 ---
+
+## Table of Contents
+- [Tutorial](#Tutorial)
+- [Links](#Links)
+- [Colors](#Colors)
+- [Editor](#Editor)
+- [Miscellaneous](#Miscellaneous)
+- [Workspace](#Workspace)
+- [Complements](#Complements)
+- [Acknowledgements](#Acknowledgements)
+- [License](#License)
+
+
+---
+
 
 ## Preview (using Style Settings Plugin to customize)
 
@@ -69,18 +85,6 @@ Vault tutorial for the theme made by [@Farouk](https://github.com/faroukx):
 - Theme Updates/Releases Note: https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/updates.md 
 - Theme Releases: https://github.com/faroukx/Obsidian-shiba-inu-theme/releases
 
----
-
-## Table of Contents
-- [Tutorial](#Tutorial)
-- [Links](#Links)
-- [Colors](#Colors)
-- [Editor](#Editor)
-- [Miscellaneous](#Miscellaneous)
-- [Workspace](#Workspace)
-- [Complements](#Complements)
-- [Acknowledgements](#Acknowledgements)
-- [License](#License)
  
 ---
  
