@@ -1,7 +1,7 @@
 # 🚀 Updates/Releases Note: All the latest updates and improvements for the theme.
 
-## `V1.0.8` Enhanced themes and exciting new features that you'ill love + All Open Issues Resolved.
-📌 Release not available.
+## `V1.0.8` - Enhanced theme and exciting new features that you'ill love + All Open Issues Resolved.
+📌 [1.0.8 Release link](https://github.com/faroukx/Obsidian-shiba-inu-theme/releases/tag/v.1.0.8)
 
 🛠️ **Technical** 
 - Resolved the issue with Quote callouts by implementing a custom solution; [Issue](https://github.com/faroukx/Obsidian-shiba-inu-theme/issues/6).
