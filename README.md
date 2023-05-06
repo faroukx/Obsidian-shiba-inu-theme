@@ -193,6 +193,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/Shiba-Inu-Background.jpg?raw=true">
 
 ---
-> I regret to inform you that I, Farouk, the founder of the Shiba Inu Theme, have left Obsidian in March 2023 due to personal reasons. 
-> As a result, it's uncertain whether any future updates to the theme will be made. 
-> I apologize for any confusion caused by my departure and I want to express my gratitude to the Obsidian community for their support and appreciation for the Shiba Inu Theme. Creating and sharing this theme with you all has been a wonderful experience.
+
