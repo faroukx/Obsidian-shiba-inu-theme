@@ -13,7 +13,6 @@
 
 ## Shiba Inu Theme ～ 柴犬のテーマ
 
-
   <a href="https://github.com/faroukx/handle-path-oz">
     <img width="20%" align="right" alt="Farouk's github stats" src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/logo/ShibaOfficiel.png?raw=true" />
   </a> <br> Shiba Inu Theme for Obsidian.md <br> 柴犬の黒曜石のテーマ <br> ～ An elegant, Japanese-inspired theme for Obsidian, created by Farouk. <br> 
@@ -21,7 +20,6 @@
 <br> Designed for those who are looking for a comfortable and serene work environment with a Japanese touch —like a Shiba Inu— to bring a peaceful atmosphere to your Obsidian experience. 
 Shiba Inu is conceived to stimulate your creativity and your productivity.
 <br>
-
 
 ---
 
@@ -36,9 +34,7 @@ Shiba Inu is conceived to stimulate your creativity and your productivity.
 - [Acknowledgements](#Acknowledgements)
 - [License](#License)
 
-
 ---
-
 
 ## Preview (using Style Settings Plugin to customize)
 
@@ -191,4 +187,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/Shiba-Inu-Background.jpg?raw=true">
 
 ---
-
