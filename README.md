@@ -1,4 +1,4 @@
-_Please refer to the message at the bottom of this page for an important announcement regarding the future of the Shiba Inu theme._
+[Please refer to the message at the bottom of this page for an important announcement regarding the future of the Shiba Inu theme.](#To-read)
 
 ---
 
@@ -192,6 +192,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 ---
+###### To-read
 
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/notice.png?raw=true">
 
