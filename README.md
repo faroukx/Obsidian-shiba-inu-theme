@@ -1,4 +1,4 @@
-[Please refer to the message at the bottom of this page for an important announcement regarding the future of the Shiba Inu theme.](#To-read)
+[Please refer to the message at the bottom of this page for an important notice regarding the future of the Shiba Inu theme.](#To-read)
 
 ---
 
