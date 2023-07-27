@@ -197,12 +197,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/notice.png?raw=true">
 
  
-Due to personal reasons, I have made the difficult decision to stop using Obsidian, and consequently, will no longer be maintaining the Shiba Inu theme. Working on this project has been an incredible journey, and getting to interact with all of you, the amazing users of the Shiba Inu theme, has been one of the best parts of this experience. **If anyone feels a connection to this project and would like to become a contributor or take over its maintenance, please do not hesitate to PM me on Discord.** 
 
-Your understanding and continued support mean the world to me. Thank you from the bottom of my heart.
-
-Warmly,
-
-Farouk, 
-Creator of the Shiba Inu Theme 
 
