@@ -57,7 +57,7 @@
 
 The Shiba Inu Theme was designed for users who want a calm, warm, and comfortable workspace using Obsidian.
 
-> *Shiba Inu is conceived to stimulate your creativity and your productivity.*
+> ***Shiba Inu is conceived to stimulate your creativity and your productivity.***
 
 ---
 
