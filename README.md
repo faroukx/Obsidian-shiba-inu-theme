@@ -10,7 +10,7 @@
 </h6>
 
 <p align="center">
-  <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/shibainubackgroundshowcase.png?raw=true" width="70%" alt="Shiba Inu Theme Showcase"/>
+  <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/shibainubackgroundshowcase.png?raw=true" width="100%" alt="Shiba Inu Theme Showcase"/>
 </p>
 
 <h6 align="center">
