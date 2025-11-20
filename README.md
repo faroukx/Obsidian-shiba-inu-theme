@@ -9,7 +9,9 @@
 	<a href="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/LICENSE"><img src="https://img.shields.io/github/license/faroukx/Obsidian-shiba-inu-theme?color=%23A31F34&style=for-the-badge&labelColor=%23252525&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAV0lEQVQ4jWNkYGBgqOie85+BDNBRmsLIAuO0lySTpLmyZy4DAwMDAxM5NiMDig1gQReo7JnL0F6SDHciOkD3KoYBMAXEhsmoCwaDCwY+JVIvKeMKNEIAAB9dK8YXTwb/AAAAAElFTkSuQmCC" /></a>
 	<br />
 	<br />
-	<a href="https://www.buymeacoffee.com/faroukx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee!&emoji=&slug=faroukx&button_colour=D7BB00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/faroukx">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee!&amp;emoji=&amp;slug=faroukx&amp;button_colour=D7BB00&amp;font_colour=000000&amp;font_family=Poppins&amp;outline_colour=000000&amp;coffee_colour=ffffff" />
+</a>
 	<br />   
 </div>
 
