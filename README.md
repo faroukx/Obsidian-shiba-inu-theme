@@ -6,8 +6,7 @@
 </h3>
 
 <h6 align="center">
-  柴犬の黒曜石のテーマ ～ An elegant, Japanese-inspired theme for Obsidian, created by 
-  <a href="https://github.com/faroukx">Farouk</a>.
+  柴犬の黒曜石のテーマ ～ An elegant, Japanese-inspired theme for Obsidian.
 </h6>
 
 <p align="center">
@@ -53,7 +52,7 @@
 
 **Shiba Inu Theme for Obsidian.md**  
 柴犬の黒曜石のテーマ  
-～ An elegant, Japanese-inspired theme for Obsidian, created by Farouk.
+～ An elegant, Japanese-inspired theme for Obsidian.
 
 The Shiba Inu Theme was designed for users who want a calm, warm, and comfortable workspace using Obsidian.
 
