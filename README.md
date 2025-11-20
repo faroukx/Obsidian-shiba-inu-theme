@@ -1,6 +1,6 @@
-
-
-<img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/shibainubackgroundshowcase.png?raw=true">
+<p align="center">
+  <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/shibainubackgroundshowcase.png?raw=true" alt="Obsidian Shiba Inu Theme">
+</p>
 
 <div align="center">
 	<a href="https://github.com/faroukx/Obsidian-shiba-inu-theme/releases"><img src="https://img.shields.io/github/v/release/faroukx/Obsidian-shiba-inu-theme?style=for-the-badge&color=%23A47B61&labelColor=%23252525&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA1klEQVRIiWNgoDFgXJjpXU5LC1gYGP930NYCBgYGfV1NBn1dTaoafPHydYaLl68zMFHVVCyA5hawMDAgvEMbCxj/dzIwMNgw/Ge0FhMVpoqhr16/ZWBg/H+UgYHhCCMDAwPDwiyvBgYGhvq4qCCqWLBo2ToGBgaGxvhp2xroEwf4wKvXbxhevX6HVU5MTJhBTAR/sBK04P6DJww3b9/DKqeupkS5BeamBgzmpgaElOEEQz+jjVowagHlACWjQQsp6lvwj4npANO/f1Q1+B8T0wGqGogLAADmITOhp5zsqQAAAABJRU5ErkJggg==" /></a>
