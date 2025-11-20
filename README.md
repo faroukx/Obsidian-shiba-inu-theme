@@ -47,7 +47,7 @@
 ---
 
 <a href="https://github.com/faroukx/handle-path-oz">
-  <img width="19%" align="right" alt="Shiba Logo" src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/logo/ShibaOfficiel.png?raw=true" />
+  <img width="18%" align="right" alt="Shiba Logo" src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/logo/ShibaOfficiel.png?raw=true" />
 </a>
 
 **Shiba Inu Theme for Obsidian.md**  
