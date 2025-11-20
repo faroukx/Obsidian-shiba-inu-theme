@@ -48,21 +48,19 @@
 ---
 
 <a href="https://github.com/faroukx/handle-path-oz">
-  <img width="14%" align="right" alt="Shiba Logo" src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/logo/ShibaOfficiel.png?raw=true" />
+  <img width="15%" align="right" alt="Shiba Logo" src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/logo/ShibaOfficiel.png?raw=true" />
 </a>
 
-<p>
-  <strong>Shiba Inu Theme for Obsidian.md</strong><br/>
-  柴犬の黒曜石のテーマ<br/>
-  ～ An elegant, Japanese-inspired theme for Obsidian, created by Farouk.
-</p>
+**Shiba Inu Theme for Obsidian.md**  
+柴犬の黒曜石のテーマ  
+～ An elegant, Japanese-inspired theme for Obsidian, created by Farouk.
 
-<p>
-  The Shiba Inu Theme was designed for users who want a calm, warm, and comfortable workspace using Obsidian.<br/>
-  Shiba Inu is conceived to stimulate your creativity and your productivity.
-</p>
+The Shiba Inu Theme was designed for users who want a calm, warm, and comfortable workspace using Obsidian.
+
+> *Shiba Inu is conceived to stimulate your creativity and your productivity.*
 
 ---
+
 
 ### ⚠️ Important Notice  
 [Please read the message at the bottom of this page regarding the future of the Shiba Inu theme.](#Toread)
@@ -184,24 +182,14 @@ This theme was inspired by the features of other themes from the Obsidian commun
 - [@whyt-byte](https://github.com/whyt-byte) - [Blue Topaz theme](https://github.com/whyt-byte/Blue-Topaz_Obsidian-css) for the translucent panel and workspace background image. 
 - [@ceciliamay](https://github.com/ceciliamay) - [Primary theme](https://github.com/ceciliamay/obsidianmd-theme-primary) for the vault and file explorer design, and for the custom checkboxes.
 - [Catppuccin](https://github.com/catppuccin/obsidian) theme for color ideas.
-- [@damiankorcz](https://github.com/damiankorcz) - [Prism theme](https://github.com/damiankorcz/Prism-Theme) for the README.md badges interface.
-
 
 **Thanks to:**
-- [@melnhh](https://github.com/melnhh) for the fonts.    
-
-
-**To-read:**
-
-I am looking for designers who want to be part of the Shiba Inu team, if you are interested and are willing to contribute to the theme, feel free to contact me on discord; [Farouk#9239](https://discord.com/) or on the forum; [Farouk](https://forum.obsidian.md/u/Farouk/summary).
-
-**I highly recommend to install the Style Settings plugin in the Plugins Community Store for a more pleasant use of the theme.** 
+- [@melnhh](https://github.com/melnhh) for the fonts.   
 
 ---
 
 ## Preview
 ### (using Style Settings Plugin to customize)
-
 
 <video id="video" x-webkit-airplay="true" webkit-playsinline="true" controls>
    <source src="https://user-images.githubusercontent.com/109313204/218333387-2ccfd0c4-dd80-4c99-8614-ca16db2e5d7f.mp4" type="video/mp4">
@@ -252,3 +240,13 @@ Please take care of yourselves,
 **_Farouk,_**
 _Shiba Inu theme creator_
 
+---
+
+<p>
+  <strong>I highly recommend installing the Style Settings plugin from the Community Plugins store for a better overall experience.</strong><br/>
+  Created by <a href="https://github.com/mgmeyers">mgmeyers</a>.<br/>
+  Plugin link:  
+  <a href="https://obsidian.md/plugins?id=obsidian-style-settings">https://obsidian.md/plugins?id=obsidian-style-settings</a>
+</p>
+
+---
