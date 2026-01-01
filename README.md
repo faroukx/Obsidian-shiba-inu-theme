@@ -1,9 +1,6 @@
-<h3 align="center">
-  <img src="https://github.com/faroukx/Obsidian-shiba-inu-theme/blob/main/img/logo/ShibaOfficiel.png?raw=true" width="110" alt="Shiba Inu Logo"/><br/>
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="25" width="0px"/>
+<h1 align="center">
   Shiba Inu Theme for Obsidian.md ～ 柺犬のテーマ
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="25" width="0px"/>
-</h3>
+</h1>
 
 <h6 align="center">
   柴犬の黒曜石のテーマ ～ An elegant, Japanese-inspired theme for Obsidian.
