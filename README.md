@@ -2,8 +2,12 @@
   Shiba Inu Theme for Obsidian.md ～ 柺犬のテーマ
 </h1>
 
-<h6 align="center">
+<h5 align="center">
   柴犬の黒曜石のテーマ ～ An elegant, Japanese-inspired theme for Obsidian.
+</h5>
+
+<h6 align="center">
+Note : This theme works best alongside the Style Settings plugin by @mgmeyers.
 </h6>
 
 <p align="center">
