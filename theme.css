@@ -2949,7 +2949,7 @@ body:not(.shib-callout-toggle)
 .shib-callout-toggle.shib-callout-style-2 .callout:not(.is-collapsible),
 .shib-callout-toggle.shib-callout-style-3 .callout:not(.is-collapsible),
 body:not(.shib-callout-toggle) .callout:not(.is-collapsible) {
-  border-color: rgba(var(--callout-color), 0.4);
+  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
   border-width: 1px;
   border-radius: var(--callout-radius);
   background-color: rgba(var(--side), 0.4);
@@ -2958,7 +2958,7 @@ body:not(.shib-callout-toggle) .callout:not(.is-collapsible) {
 body:not(.shib-callout-toggle) .callout .callout-content {
   padding: var(--callout-title-padding) var(--callout-title-padding)
     var(--callout-title-padding) calc(var(--callout-title-padding) * 1.5);
-  border-top: 1px solid rgba(var(--callout-color), 0.4);
+  border-top: 1px solid color-mix(in srgb, var(--callout-color) 40%, transparent);
 }
 .shib-callout-toggle.shib-callout-style-1 .callout .callout-fold,
 .shib-callout-toggle.shib-callout-style-1 .callout.is-collapsible .callout-fold,
@@ -2993,7 +2993,7 @@ body:not(.shib-callout-toggle) .callout.is-collapsible .callout-title-inner {
 .shib-callout-toggle.shib-callout-style-2 .callout.is-collapsible,
 .shib-callout-toggle.shib-callout-style-3 .callout.is-collapsible,
 body:not(.shib-callout-toggle) .callout.is-collapsible {
-  border-color: rgba(var(--callout-color), 0.4);
+  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
   border-width: 1px;
   border-radius: var(--callout-radius);
   background-color: rgba(var(--side), 0.4);
@@ -3008,7 +3008,7 @@ body:not(.shib-callout-toggle) .callout.is-collapsible {
 body:not(.shib-callout-toggle)
   .callout.is-collapsible.is-collapsed
   .callout-title {
-  background-color: rgba(var(--callout-color), 0.1);
+  background-color: color-mix(in srgb, var(--callout-color) 10%, transparent);
   padding: var(--callout-title-padding);
   cursor: pointer;
 }
@@ -3028,9 +3028,9 @@ body:not(.shib-callout-toggle) .callout.is-collapsible:not(.is-collapsed) {
 body:not(.shib-callout-toggle)
   .callout.is-collapsible:not(.is-collapsed)
   .callout-title {
-  background-color: rgba(var(--callout-color), 0.1);
+  background-color: color-mix(in srgb, var(--callout-color) 10%, transparent);
   padding: var(--callout-title-padding);
-  border-color: rgba(var(--callout-color), 0.4);
+  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
   cursor: pointer;
 }
 .shib-callout-toggle.shib-callout-style-3
@@ -3041,7 +3041,7 @@ body:not(.shib-callout-toggle)
   .callout-content {
   padding: var(--callout-title-padding) var(--callout-title-padding) 0
     calc(var(--callout-title-padding) * 1.5);
-  border-top: 2px solid rgba(var(--callout-color), 0.4);
+  border-top: 2px solid color-mix(in srgb, var(--callout-color) 40%, transparent);
 }
 .shib-callout-toggle.shib-callout-style-2
   .callout:not(.is-collapsible)
@@ -3050,9 +3050,9 @@ body:not(.shib-callout-toggle)
   .callout:not(.is-collapsible)
   .callout-title,
 body:not(.shib-callout-toggle) .callout:not(.is-collapsible) .callout-title {
-  background-color: rgba(var(--callout-color), 0.1);
+  background-color: color-mix(in srgb, var(--callout-color) 10%, transparent);
   padding: var(--callout-title-padding);
-  border-color: rgba(var(--callout-color), 0.4);
+  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
 }
 .shib-callout-toggle.shib-callout-style-2 .callout .list-collapse-indicator,
 .shib-callout-toggle.shib-callout-style-3 .callout .list-collapse-indicator,
@@ -3077,8 +3077,8 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   min-height: 36px;
   border: 2px solid;
   border-radius: 10px;
-  background-color: rgba(var(--callout-color), 0.1);
-  border-color: rgba(var(--callout-color), 0.4);
+  background-color: color-mix(in srgb, var(--callout-color) 10%, transparent);
+  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
 }
 .shib-callout-toggle.shib-callout-style-1
   .callout
@@ -3100,7 +3100,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
 .shib-callout-toggle.shib-callout-style-1 .callout .callout-content {
   padding: 20px;
   margin-top: -8px;
-  border-color: rgba(var(--callout-color), 0.4);
+  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
 }
 .shib-callout-toggle.shib-callout-style-1
   .callout.is-collapsible:not(.is-collapsed)
@@ -3110,7 +3110,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   border-left: 1px solid;
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
-  border-color: rgba(var(--callout-color), 0.4);
+  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
   padding: var(--size-4-4);
 }
 .shib-callout-toggle.shib-callout-block .callout.is-collapsible,
@@ -3121,21 +3121,21 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
 .shib-callout-toggle.shib-callout-style-2 .callout .callout-content {
   padding: var(--callout-title-padding) var(--callout-title-padding)
     var(--callout-title-padding) calc(var(--callout-title-padding) * 1.5);
-  border-top: 1px dashed rgba(var(--callout-color), 0.4);
+  border-top: 1px dashed color-mix(in srgb, var(--callout-color) 40%, transparent);
 }
 .shib-callout-toggle.shib-callout-style-2
   .callout.is-collapsible:not(.is-collapsed)
   .callout-content {
   padding: var(--callout-title-padding) var(--callout-title-padding) 0
     calc(var(--callout-title-padding) * 1.5);
-  border-top: 1px dashed rgba(var(--callout-color), 0.4);
+  border-top: 1px dashed color-mix(in srgb, var(--callout-color) 40%, transparent);
 }
 .callout-title-inner {
   flex-grow: 1;
 }
 .shib-callout-toggle.shib-callout-style-4 .callout {
   padding: 0;
-  border: 1px solid rgba(var(--callout-color), 0.2);
+  border: 1px solid color-mix(in srgb, var(--callout-color) 20%, transparent);
   overflow: hidden;
 }
 .shib-callout-toggle.shib-callout-style-4.shib-callout-toggle.shib-callout-style-4.theme-light
@@ -3147,12 +3147,12 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
 }
 .shib-callout-toggle.shib-callout-style-4.theme-light .callout-title {
-  background: rgba(var(--callout-color), 0.2);
+  background: color-mix(in srgb, var(--callout-color) 20%, transparent);
   padding: var(--callout-title-padding);
   cursor: pointer;
 }
 .shib-callout-toggle.shib-callout-style-4.theme-dark .callout-title {
-  background: rgba(var(--callout-color), 0.2);
+  background: color-mix(in srgb, var(--callout-color) 20%, transparent);
 }
 .shib-callout-toggle.shib-callout-style-4.theme-light
   .callout-title
@@ -3182,7 +3182,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .callout.is-collapsible:not(.is-collapsed)
   .callout-fold {
   padding-right: 0;
-  color: rgba(var(--callout-color), 1);
+  color: color-mix(in srgb, var(--callout-color) 100%, transparent);
 }
 .shib-callout-toggle.shib-callout-style-4.theme-light .callout-fold {
   filter: brightness(0.75);
@@ -3201,12 +3201,12 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   box-shadow: 0 -2px 0 0 rgba(0, 0, 0, 0.175) inset;
 }
 .shib-callout-toggle.shib-callout-block .callout {
-  border-top: 2px solid rgb(var(--callout-color));
-  border-left: 2px solid rgb(var(--callout-color));
-  border-right: 2px solid rgb(var(--callout-color));
-  border-bottom: 2px solid rgb(var(--callout-color));
+  border-top: 2px solid var(--callout-color);
+  border-left: 2px solid var(--callout-color);
+  border-right: 2px solid var(--callout-color);
+  border-bottom: 2px solid var(--callout-color);
   border-radius: 10px;
-  border-color: rgba(var(--callout-color), 0.5);
+  border-color: color-mix(in srgb, var(--callout-color) 50%, transparent);
   background-color: unset;
   border-radius: var(--callout-radius);
 }
