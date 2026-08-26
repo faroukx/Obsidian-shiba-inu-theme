@@ -102,11 +102,14 @@ body {
   --text: 76, 79, 105;
   --subtext1: 92, 95, 119;
   --subtext0: 108, 111, 133;
-  --overlay2: rgb(76, 79, 105);
+  --overlay2-rgb: 76, 79, 105;
+  --overlay2: rgb(var(--overlay2-rgb));
   --overlay1: 140, 143, 161;
-  --overlay0: rgb(156, 160, 176);
+  --overlay0-rgb: 156, 160, 176;
+  --overlay0: rgb(var(--overlay0-rgb));
   --surface2: 221, 225, 238;
-  --surface1: rgb(188, 192, 204);
+  --surface1-rgb: 188, 192, 204;
+  --surface1: rgb(var(--surface1-rgb));
   --surface0: 221, 225, 238;
   --exterior: 254, 241, 241;
   --side: 243, 236, 243;
@@ -115,24 +118,29 @@ body {
 .theme-light.ivory-light,
 .theme-light.lily-light {
   --subtext1: 97, 92, 132;
-  --overlay2: rgb(86, 100, 122);
+  --overlay2-rgb: 86, 100, 122;
+  --overlay2: rgb(var(--overlay2-rgb));
   --overlay1: 152, 147, 165;
   --subtext0: 108, 111, 133;
   --text: 86, 100, 122;
 }
 .theme-light.lily-light {
-  --overlay0: rgb(161, 156, 173);
+  --overlay0-rgb: 161, 156, 173;
+  --overlay0: rgb(var(--overlay0-rgb));
   --surface2: 241, 183, 153;
-  --surface1: rgb(203, 194, 186);
+  --surface1-rgb: 203, 194, 186;
+  --surface1: rgb(var(--surface1-rgb));
   --surface0: 242, 194, 163;
   --exterior: 245, 203, 181;
   --side: 245, 209, 185;
   --base: 245, 219, 195;
 }
 .theme-light.ivory-light {
-  --overlay0: rgb(231, 215, 198);
+  --overlay0-rgb: 231, 215, 198;
+  --overlay0: rgb(var(--overlay0-rgb));
   --surface2: 231, 215, 198;
-  --surface1: rgb(209, 201, 194);
+  --surface1-rgb: 209, 201, 194;
+  --surface1: rgb(var(--surface1-rgb));
   --surface0: 233, 204, 176;
   --exterior: 242, 226, 209;
   --side: 235, 225, 206;
@@ -142,11 +150,14 @@ body {
   --text: 86, 100, 122;
   --subtext1: 92, 95, 119;
   --subtext0: 108, 111, 133;
-  --overlay2: rgb(76, 79, 105);
+  --overlay2-rgb: 76, 79, 105;
+  --overlay2: rgb(var(--overlay2-rgb));
   --overlay1: 140, 143, 161;
-  --overlay0: rgb(156, 160, 176);
+  --overlay0-rgb: 156, 160, 176;
+  --overlay0: rgb(var(--overlay0-rgb));
   --surface2: 221, 225, 238;
-  --surface1: rgb(188, 192, 204);
+  --surface1-rgb: 188, 192, 204;
+  --surface1: rgb(var(--surface1-rgb));
   --surface0: 224, 240, 255;
   --exterior: 232, 243, 255;
   --side: 232, 243, 255;
@@ -156,11 +167,14 @@ body {
   --text: 86, 100, 122;
   --subtext1: 97, 92, 132;
   --subtext0: 0, 0, 0;
-  --overlay2: rgb(86, 100, 122);
+  --overlay2-rgb: 86, 100, 122;
+  --overlay2: rgb(var(--overlay2-rgb));
   --overlay1: 152, 147, 165;
-  --overlay0: rgb(166, 172, 146);
+  --overlay0-rgb: 166, 172, 146;
+  --overlay0: rgb(var(--overlay0-rgb));
   --surface2: 166, 172, 146;
-  --surface1: rgb(209, 201, 194);
+  --surface1-rgb: 209, 201, 194;
+  --surface1: rgb(var(--surface1-rgb));
   --surface0: 210, 213, 200;
   --exterior: 247, 227, 213;
   --side: 247, 227, 213;
@@ -168,45 +182,72 @@ body {
 }
 .theme-light.default-light-theme,
 .theme-light.sky-light {
-  --lily: 222, 149, 132;
-  --red: rgb(240, 68, 114);
-  --rose: 215, 125, 146;
-  --violet: rgb(176, 110, 201);
-  --blue: rgb(71, 143, 238);
-  --sea: rgb(23, 146, 153);
-  --cyan: 37, 189, 209;
-  --turquoise: 58, 161, 182;
-  --green: rgb(64, 155, 40);
-  --yellow: rgb(228, 147, 32);
-  --lemon: 195, 173, 87;
-  --orange: 249, 102, 50;
+  --lily-rgb: 222, 149, 132;
+  --lily: rgb(var(--lily-rgb));
+  --red-rgb: 240, 68, 114;
+  --red: rgb(var(--red-rgb));
+  --rose-rgb: 215, 125, 146;
+  --rose: rgb(var(--rose-rgb));
+  --violet-rgb: 176, 110, 201;
+  --violet: rgb(var(--violet-rgb));
+  --blue-rgb: 71, 143, 238;
+  --blue: rgb(var(--blue-rgb));
+  --sea-rgb: 23, 146, 153;
+  --sea: rgb(var(--sea-rgb));
+  --cyan-rgb: 37, 189, 209;
+  --cyan: rgb(var(--cyan-rgb));
+  --turquoise-rgb: 58, 161, 182;
+  --turquoise: rgb(var(--turquoise-rgb));
+  --green-rgb: 64, 155, 40;
+  --green: rgb(var(--green-rgb));
+  --yellow-rgb: 228, 147, 32;
+  --yellow: rgb(var(--yellow-rgb));
+  --lemon-rgb: 195, 173, 87;
+  --lemon: rgb(var(--lemon-rgb));
+  --orange-rgb: 249, 102, 50;
+  --orange: rgb(var(--orange-rgb));
 }
 .theme-light.ivory-light,
 .theme-light.lily-light,
 .theme-light.stone-light {
-  --lily: 208, 109, 108;
-  --red: rgb(215, 67, 72);
-  --rose: 219, 75, 146;
-  --violet: rgb(152, 88, 185);
-  --blue: rgb(50, 145, 207);
-  --sea: rgb(16, 103, 78);
-  --cyan: 4, 165, 229;
-  --turquoise: 56, 126, 127;
-  --green: rgb(63, 130, 48);
-  --yellow: rgb(228, 147, 32);
-  --lemon: 195, 173, 87;
-  --orange: 211, 126, 17;
+  --lily-rgb: 208, 109, 108;
+  --lily: rgb(var(--lily-rgb));
+  --red-rgb: 215, 67, 72;
+  --red: rgb(var(--red-rgb));
+  --rose-rgb: 219, 75, 146;
+  --rose: rgb(var(--rose-rgb));
+  --violet-rgb: 152, 88, 185;
+  --violet: rgb(var(--violet-rgb));
+  --blue-rgb: 50, 145, 207;
+  --blue: rgb(var(--blue-rgb));
+  --sea-rgb: 16, 103, 78;
+  --sea: rgb(var(--sea-rgb));
+  --cyan-rgb: 4, 165, 229;
+  --cyan: rgb(var(--cyan-rgb));
+  --turquoise-rgb: 56, 126, 127;
+  --turquoise: rgb(var(--turquoise-rgb));
+  --green-rgb: 63, 130, 48;
+  --green: rgb(var(--green-rgb));
+  --yellow-rgb: 228, 147, 32;
+  --yellow: rgb(var(--yellow-rgb));
+  --lemon-rgb: 195, 173, 87;
+  --lemon: rgb(var(--lemon-rgb));
+  --orange-rgb: 211, 126, 17;
+  --orange: rgb(var(--orange-rgb));
 }
 .theme-dark,
 .theme-dark.default-dark-theme {
   --text: 198, 206, 239;
   --subtext1: 181, 189, 220;
   --subtext0: 165, 172, 201;
-  --overlay2: rgb(148, 155, 183);
+  --overlay2-rgb: 148, 155, 183;
+  --overlay2: rgb(var(--overlay2-rgb));
   --overlay1: 131, 138, 164;
-  --overlay0: rgb(115, 120, 145);
+  --overlay0-rgb: 115, 120, 145;
+  --overlay0: rgb(var(--overlay0-rgb));
   --surface2: 98, 103, 126;
-  --surface1: rgb(81, 86, 108);
+  --surface1-rgb: 81, 86, 108;
+  --surface1: rgb(var(--surface1-rgb));
   --surface0: 65, 69, 89;
   --base: 42, 45, 61;
   --side: 38, 42, 58;
@@ -216,11 +257,14 @@ body {
   --text: 197, 207, 245;
   --subtext1: 179, 188, 224;
   --subtext0: 161, 170, 203;
-  --overlay2: rgb(143, 151, 183);
+  --overlay2-rgb: 143, 151, 183;
+  --overlay2: rgb(var(--overlay2-rgb));
   --overlay1: 125, 132, 162;
-  --overlay0: rgb(108, 114, 141);
+  --overlay0-rgb: 108, 114, 141;
+  --overlay0: rgb(var(--overlay0-rgb));
   --surface2: 90, 95, 120;
-  --surface1: rgb(72, 76, 100);
+  --surface1-rgb: 72, 76, 100;
+  --surface1: rgb(var(--surface1-rgb));
   --surface0: 54, 58, 79;
   --base: 32, 36, 51;
   --side: 30, 32, 48;
@@ -230,11 +274,14 @@ body {
   --text: 198, 208, 245;
   --subtext1: 179, 188, 223;
   --subtext0: 161, 168, 201;
-  --overlay2: rgb(142, 149, 179);
+  --overlay2-rgb: 142, 149, 179;
+  --overlay2: rgb(var(--overlay2-rgb));
   --overlay1: 123, 129, 157;
-  --overlay0: rgb(105, 109, 134);
+  --overlay0-rgb: 105, 109, 134;
+  --overlay0: rgb(var(--overlay0-rgb));
   --surface2: 86, 89, 112;
-  --surface1: rgb(67, 70, 90);
+  --surface1-rgb: 67, 70, 90;
+  --surface1: rgb(var(--surface1-rgb));
   --surface0: 49, 50, 68;
   --base: 28, 28, 42;
   --side: 24, 24, 37;
@@ -244,11 +291,14 @@ body {
   --text: 217, 224, 238;
   --subtext1: 211, 205, 214;
   --subtext0: 190, 179, 193;
-  --overlay2: rgb(167, 156, 176);
+  --overlay2-rgb: 167, 156, 176;
+  --overlay2: rgb(var(--overlay2-rgb));
   --overlay1: 152, 139, 162;
-  --overlay0: rgb(109, 107, 125);
+  --overlay0-rgb: 109, 107, 125;
+  --overlay0: rgb(var(--overlay0-rgb));
   --surface2: 87, 82, 105;
-  --surface1: rgb(45, 40, 72);
+  --surface1-rgb: 45, 40, 72;
+  --surface1: rgb(var(--surface1-rgb));
   --surface0: 48, 45, 65;
   --base: 20, 20, 20;
   --side: 25, 26, 29;
@@ -258,54 +308,78 @@ body {
 .theme-dark.default-dark-theme,
 .theme-dark.pure-dark,
 .theme-dark.warm-dark {
-  --lily: 235, 188, 186;
-  --red: rgb(255, 98, 107);
-  --rose: 243, 137, 143;
-  --violet: rgb(196, 167, 231);
-  --blue: rgb(147, 183, 245);
-  --sea: rgb(104, 188, 204);
-  --cyan: 137, 199, 223;
-  --turquoise: 128, 216, 220;
-  --green: rgb(56, 198, 141);
-  --yellow: rgb(249, 226, 175);
-  --lemon: 246, 193, 119;
-  --orange: 247, 157, 124;
+  --lily-rgb: 235, 188, 186;
+  --lily: rgb(var(--lily-rgb));
+  --red-rgb: 255, 98, 107;
+  --red: rgb(var(--red-rgb));
+  --rose-rgb: 243, 137, 143;
+  --rose: rgb(var(--rose-rgb));
+  --violet-rgb: 196, 167, 231;
+  --violet: rgb(var(--violet-rgb));
+  --blue-rgb: 147, 183, 245;
+  --blue: rgb(var(--blue-rgb));
+  --sea-rgb: 104, 188, 204;
+  --sea: rgb(var(--sea-rgb));
+  --cyan-rgb: 137, 199, 223;
+  --cyan: rgb(var(--cyan-rgb));
+  --turquoise-rgb: 128, 216, 220;
+  --turquoise: rgb(var(--turquoise-rgb));
+  --green-rgb: 56, 198, 141;
+  --green: rgb(var(--green-rgb));
+  --yellow-rgb: 249, 226, 175;
+  --yellow: rgb(var(--yellow-rgb));
+  --lemon-rgb: 246, 193, 119;
+  --lemon: rgb(var(--lemon-rgb));
+  --orange-rgb: 247, 157, 124;
+  --orange: rgb(var(--orange-rgb));
 }
 .shiba-accent-style.accent-orange {
   --accent: var(--orange);
+  --accent-rgb: var(--orange-rgb);
 }
 .shiba-accent-style.accent-lemon {
   --accent: var(--lemon);
+  --accent-rgb: var(--lemon-rgb);
 }
 .shiba-accent-style.accent-rose {
   --accent: var(--rose);
+  --accent-rgb: var(--rose-rgb);
 }
 .shiba-accent-style.accent-violet {
   --accent: var(--violet);
+  --accent-rgb: var(--violet-rgb);
 }
 .shiba-accent-style.accent-red {
   --accent: var(--red);
+  --accent-rgb: var(--red-rgb);
 }
 .shiba-accent-style.accent-yellow {
   --accent: var(--yellow);
+  --accent-rgb: var(--yellow-rgb);
 }
 .shiba-accent-style.accent-green {
   --accent: var(--green);
+  --accent-rgb: var(--green-rgb);
 }
 .shiba-accent-style.accent-sea {
   --accent: var(--sea);
+  --accent-rgb: var(--sea-rgb);
 }
 .shiba-accent-style.accent-cyan {
   --accent: var(--cyan);
+  --accent-rgb: var(--cyan-rgb);
 }
 .shiba-accent-style.accent-turquoise {
   --accent: var(--turquoise);
+  --accent-rgb: var(--turquoise-rgb);
 }
 .shiba-accent-style.accent-blue {
   --accent: var(--blue);
+  --accent-rgb: var(--blue-rgb);
 }
 .shiba-accent-style.accent-lily {
   --accent: var(--lily);
+  --accent-rgb: var(--lily-rgb);
 }
 .shib-bold-orange {
   --shib-bold-color: var(--orange);
@@ -396,7 +470,7 @@ body {
   --graph-line: var(--background-modifier-border);
   --graph-fill-attachment: var(--blue);
   --graph-circle-fill-unresolved: #ffa6e5;
-  --graph-arrow: rgb(var(--rose));
+  --graph-arrow: var(--rose);
 }
 .theme-light {
   color-scheme: light;
@@ -416,31 +490,31 @@ body {
   --graph-arrow: var(--violet);
 }
 .shiba-accent-style {
-  --color-accent: rgb(var(--accent));
-  --color-accent-1: rgb(var(--accent));
-  --color-accent-2: rgba(var(--accent), 0.9);
+  --color-accent: var(--accent);
+  --color-accent-1: var(--accent);
+  --color-accent-2: color-mix(in srgb, var(--accent) 90%, transparent);
   --text-selection: color-mix(in srgb, var(--blue) 15%, transparent);
-  --interactive-accent: rgb(var(--accent));
-  --interactive-accent-hover: rgba(var(--accent), 0.9);
-  --text-accent: rgb(var(--accent));
-  --text-accent-hover: rgb(var(--accent));
+  --interactive-accent: var(--accent);
+  --interactive-accent-hover: color-mix(in srgb, var(--accent) 90%, transparent);
+  --text-accent: var(--accent);
+  --text-accent-hover: var(--accent);
   --text-highlight-bg: color-mix(in srgb, var(--yellow) 20%, transparent);
   --text-highlight-bg-active: color-mix(in srgb, var(--yellow) 30%, transparent);
-  --interactive-accent: rgb(var(--accent));
-  --interactive-accent-rgb: var(--accent);
-  --interactive-accent-hover: rgb(var(--accent));
-  --blockquote-border-color: rgb(var(--accent));
-  --background-modifier-active-hover: rgba(var(--accent), 0.15);
-  --internal-link-color: rgba(var(--accent), 0.9);
-  --external-link-color: rgba(var(--accent), 0.8);
-  --unresolved-link-color: rgba(var(--accent), 0.8);
-  --tag-background: rgba(var(--accent), 0.1);
-  --tag-background-hover: rgba(var(--accent), 0.2);
-  --tag-border-color: rgba(var(--accent), 0.15);
-  --tag-border-color-hover: rgba(var(--accent), 0.15);
-  --nav-item-background-selected: rgba(var(--accent), 0.2);
-  --heading-formatting: rgb(var(--accent));
-  --icon-color-focused: rgb(var(--accent));
+  --interactive-accent: var(--accent);
+  --interactive-accent-rgb: var(--accent-rgb);
+  --interactive-accent-hover: var(--accent);
+  --blockquote-border-color: var(--accent);
+  --background-modifier-active-hover: color-mix(in srgb, var(--accent) 15%, transparent);
+  --internal-link-color: color-mix(in srgb, var(--accent) 90%, transparent);
+  --external-link-color: color-mix(in srgb, var(--accent) 80%, transparent);
+  --unresolved-link-color: color-mix(in srgb, var(--accent) 80%, transparent);
+  --tag-background: color-mix(in srgb, var(--accent) 10%, transparent);
+  --tag-background-hover: color-mix(in srgb, var(--accent) 20%, transparent);
+  --tag-border-color: color-mix(in srgb, var(--accent) 15%, transparent);
+  --tag-border-color-hover: color-mix(in srgb, var(--accent) 15%, transparent);
+  --nav-item-background-selected: color-mix(in srgb, var(--accent) 20%, transparent);
+  --heading-formatting: var(--accent);
+  --icon-color-focused: var(--accent);
 }
 .theme-dark,
 .theme-light {
@@ -452,32 +526,32 @@ body {
   --background-secondary-translucent: rgba(var(--base), 0.1);
   --background-secondary-translucent-1: rgba(var(--base), 0.1);
   --graph-line-highlight: var(--interactive-accent);
-  --graph-circle-outline: rgb(var(--rose));
+  --graph-circle-outline: var(--rose);
   --graph-circle-fill: var(--blue);
   --graph-circle-fill-highlight: var(--blue);
-  --graph-fill-tag: rgb(var(--orange));
+  --graph-fill-tag: var(--orange);
   --color-white: hsl(36, 36%, 96.9%);
   --color-black: hsl(27, 15%, 12%);
-  --color-lightpink-rgb: var(--lily);
-  --color-lightpink: rgb(var(--lily));
-  --color-red-rgb: var(--red);
+  --color-lightpink-rgb: var(--lily-rgb);
+  --color-lightpink: var(--lily);
+  --color-red-rgb: var(--red-rgb);
   --color-red: var(--red);
-  --color-pink-rgb: var(--rose);
-  --color-pink: rgb(var(--rose));
-  --color-purple-rgb: var(--violet);
+  --color-pink-rgb: var(--rose-rgb);
+  --color-pink: var(--rose);
+  --color-purple-rgb: var(--violet-rgb);
   --color-purple: var(--violet);
-  --color-blue-rgb: var(--blue);
+  --color-blue-rgb: var(--blue-rgb);
   --color-blue: var(--blue);
-  --color-cyan-rgb: var(--sea);
+  --color-cyan-rgb: var(--sea-rgb);
   --color-cyan: var(--sea);
-  --color-green-rgb: var(--green);
+  --color-green-rgb: var(--green-rgb);
   --color-green: var(--green);
-  --color-yellow-rgb: var(--yellow);
+  --color-yellow-rgb: var(--yellow-rgb);
   --color-yellow: var(--yellow);
-  --color-lightorange-rgb: var(--lemon);
-  --color-lightorange: rgb(var(--lemon));
-  --color-orange-rgb: var(--orange);
-  --color-orange: rgb(var(--orange));
+  --color-lightorange-rgb: var(--lemon-rgb);
+  --color-lightorange: var(--lemon);
+  --color-orange-rgb: var(--orange-rgb);
+  --color-orange: var(--orange);
   --mono-rgb-100: var(--text);
   --color-base-00: rgb(var(--exterior));
   --color-base-10: rgb(var(--side));
@@ -519,22 +593,22 @@ body {
   --background-modifier-form-field: rgba(var(--exterior), 0.3);
   --background-modifier-success: color-mix(in srgb, var(--green) 100%, transparent);
   --background-modifier-success-hover: color-mix(in srgb, var(--green) 90%, transparent);
-  --background-modifier-success-rgb: var(--green);
+  --background-modifier-success-rgb: var(--green-rgb);
   --background-modifier-error: color-mix(in srgb, var(--red) 100%, transparent);
-  --background-modifier-error-rgb: var(--red);
+  --background-modifier-error-rgb: var(--red-rgb);
   --background-modifier-error-hover: color-mix(in srgb, var(--red) 90%, transparent);
   --background-modifier-message: rgba(var(--exterior), 0.9);
   --modal-border-color: rgb(var(--surface0));
   --text-normal: rgb(var(--text));
   --text-muted: var(--overlay2);
-  --text-muted-rgb: var(--overlay2);
+  --text-muted-rgb: var(--overlay2-rgb);
   --text-faint: rgb(var(--subtext0));
   --text-error: var(--red);
   --text-error-hover: color-mix(in srgb, var(--red) 80%, transparent);
   --text-success: var(--green);
   --text-on-accent: rgb(var(--base));
-  --text-highlight-bg: rgba(var(--orange), 0.2);
-  --text-highlight-bg-active: rgba(var(--orange), 0.4);
+  --text-highlight-bg: color-mix(in srgb, var(--orange) 20%, transparent);
+  --text-highlight-bg-active: color-mix(in srgb, var(--orange) 40%, transparent);
   --interactive-normal: rgb(var(--surface0));
   --interactive-hover: var(--surface1);
   --interactive-success: var(--green);
@@ -564,8 +638,8 @@ body.theme-dark {
   --shib-custom-bg-card-fg-opacity: var(--shib-custom-bg-card-fg-opacity-dark);
 }
 .shiba-italic-bold-style {
-  --italic-color: rgb(var(--shib-italic-color, var(--green)));
-  --bold-color: rgb(var(--shib-bold-color, var(--red)));
+  --italic-color: var(--shib-italic-color, var(--green));
+  --bold-color: var(--shib-bold-color, var(--red));
 }
 .markdown-rendered mark {
   --italic-color: rgb(var(--text));
@@ -861,12 +935,12 @@ body:not(.shiba-remove-file-icons)
 .custom-checkboxes [data-task=">"][type="checkbox"]:checked:after {
   -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 470 '%3E%3Cpath d='M384 32c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V96C0 60.7 28.7 32 64 32H384zM160 144c-13.3 0-24 10.7-24 24s10.7 24 24 24h94.1L119 327c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l135-135V328c0 13.3 10.7 24 24 24s24-10.7 24-24V168c0-13.3-10.7-24-24-24H160z'/%3E%3C/svg%3E");
   -webkit-mask-size: contain;
-  background-color: rgb(var(--cyan));
+  background-color: var(--cyan);
   left: 0;
 }
 .custom-checkboxes [data-task=">"] input[type="checkbox"]:checked:before,
 .custom-checkboxes [data-task=">"][type="checkbox"]:checked:before {
-  color: rgb(var(--cyan));
+  color: var(--cyan);
   margin: 0 3px;
   position: absolute;
   left: calc(var(--checkbox-size) * 1);
@@ -876,12 +950,12 @@ body:not(.shiba-remove-file-icons)
 .custom-checkboxes [data-task="<"][type="checkbox"]:checked:after {
   -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 444 502'%3E%3Cpath d='M152 64H296V24C296 10.75 306.7 0 320 0C333.3 0 344 10.75 344 24V64H384C419.3 64 448 92.65 448 128V448C448 483.3 419.3 512 384 512H64C28.65 512 0 483.3 0 448V128C0 92.65 28.65 64 64 64H104V24C104 10.75 114.7 0 128 0C141.3 0 152 10.75 152 24V64zM48 448C48 456.8 55.16 464 64 464H384C392.8 464 400 456.8 400 448V192H48V448z'/%3E%3C/svg%3E");
   -webkit-mask-size: contain;
-  background-color: rgb(var(--turquoise));
+  background-color: var(--turquoise);
   left: 0;
 }
 .custom-checkboxes [data-task="<"] input[type="checkbox"]:checked:before,
 .custom-checkboxes [data-task="<"][type="checkbox"]:checked:before {
-  color: rgb(var(--turquoise));
+  color: var(--turquoise);
   margin: 0 3px;
   position: absolute;
   left: calc(var(--checkbox-size) * 1);
@@ -891,8 +965,8 @@ body:not(.shiba-remove-file-icons)
 .custom-checkboxes [data-task="!"][type="checkbox"]:checked,
 .custom-checkboxes [data-task="i"] input[type="checkbox"]:checked,
 .custom-checkboxes [data-task="i"][type="checkbox"]:checked {
-  --checkbox-color: rgb(var(--orange));
-  --checkbox-color-hover: rgb(var(--orange));
+  --checkbox-color: var(--orange);
+  --checkbox-color-hover: var(--orange);
 }
 .custom-checkboxes [data-task="!"] input[type="checkbox"]:checked:after,
 .custom-checkboxes [data-task="!"][type="checkbox"]:checked:after {
@@ -980,7 +1054,7 @@ body:not(.shiba-remove-file-icons)
 .custom-checkboxes [data-task="n"][type="checkbox"]:checked:after {
   -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 512'%3E%3Cpath d='M32 32C32 14.3 46.3 0 64 0H320c17.7 0 32 14.3 32 32s-14.3 32-32 32H290.5l11.4 148.2c36.7 19.9 65.7 53.2 79.5 94.7l1 3c3.3 9.8 1.6 20.5-4.4 28.8s-15.7 13.3-26 13.3H32c-10.3 0-19.9-4.9-26-13.3s-7.7-19.1-4.4-28.8l1-3c13.8-41.5 42.8-74.8 79.5-94.7L93.5 64H64C46.3 64 32 49.7 32 32zM160 384h64v96c0 17.7-14.3 32-32 32s-32-14.3-32-32V384z'/%3E%3C/svg%3E");
   -webkit-mask-size: contain;
-  background-color: rgb(var(--lemon));
+  background-color: var(--lemon);
   left: 0;
 }
 .custom-checkboxes [data-task="I"] input[type="checkbox"]:checked:before,
@@ -989,7 +1063,7 @@ body:not(.shiba-remove-file-icons)
 .custom-checkboxes [data-task="n"] input[type="checkbox"]:checked:before,
 .custom-checkboxes [data-task="n"][type="checkbox"]:checked:before,
 .custom-checkboxes [data-task="s"] input[type="checkbox"]:checked:before {
-  color: rgb(var(--lemon));
+  color: var(--lemon);
   margin: 0 3px;
   position: absolute;
   left: calc(var(--checkbox-size) * 1);
@@ -1019,7 +1093,7 @@ body:not(.shiba-remove-file-icons)
 .custom-checkboxes [data-task="I"][type="checkbox"]:checked:after {
   -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 512'%3E%3Cpath d='M272 384c9.6-31.9 29.5-59.1 49.2-86.2l0 0c5.2-7.1 10.4-14.2 15.4-21.4c19.8-28.5 31.4-63 31.4-100.3C368 78.8 289.2 0 192 0S16 78.8 16 176c0 37.3 11.6 71.9 31.4 100.3c5 7.2 10.2 14.3 15.4 21.4l0 0c19.8 27.1 39.7 54.4 49.2 86.2H272zM192 512c44.2 0 80-35.8 80-80V416H112v16c0 44.2 35.8 80 80 80zM112 176c0 8.8-7.2 16-16 16s-16-7.2-16-16c0-61.9 50.1-112 112-112c8.8 0 16 7.2 16 16s-7.2 16-16 16c-44.2 0-80 35.8-80 80z'/%3E%3C/svg%3E");
   -webkit-mask-size: contain;
-  background-color: rgb(var(--lemon));
+  background-color: var(--lemon);
   left: 0;
 }
 .custom-checkboxes [data-task="S"] input[type="checkbox"]:checked:after,
@@ -1074,7 +1148,7 @@ body:not(.shiba-remove-file-icons)
 .custom-checkboxes [data-task="r"] input[type="checkbox"]:checked:after {
   -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath d='M224 0c-17.7 0-32 14.3-32 32V51.2C119 66 64 130.6 64 208v18.8c0 47-17.3 92.4-48.5 127.6l-7.4 8.3c-8.4 9.4-10.4 22.9-5.3 34.4S19.4 416 32 416H416c12.6 0 24-7.4 29.2-18.9s3.1-25-5.3-34.4l-7.4-8.3C401.3 319.2 384 273.9 384 226.8V208c0-77.4-55-142-128-156.8V32c0-17.7-14.3-32-32-32zm45.3 493.3c12-12 18.7-28.3 18.7-45.3H224 160c0 17 6.7 33.3 18.7 45.3s28.3 18.7 45.3 18.7s33.3-6.7 45.3-18.7z'/%3E%3C/svg%3E");
   -webkit-mask-size: 100%;
-  background-color: rgb(var(--lemon));
+  background-color: var(--lemon);
   left: 0;
 }
 .image-zoom .view-content :is(.cm-editor, .markdown-preview-view) img {
@@ -1291,13 +1365,13 @@ body.blockquote-style-quotation-mark
   margin-top: 20px;
 }
 .shib-header-color-toggle.shib-h1-lily {
-  --h1-color: rgb(var(--lily));
+  --h1-color: var(--lily);
 }
 .shib-header-color-toggle.shib-h1-red {
   --h1-color: var(--red);
 }
 .shib-header-color-toggle.shib-h1-rose {
-  --h1-color: rgb(var(--rose));
+  --h1-color: var(--rose);
 }
 .shib-header-color-toggle.shib-h1-violet {
   --h1-color: var(--violet);
@@ -1309,10 +1383,10 @@ body.blockquote-style-quotation-mark
   --h1-color: var(--sea);
 }
 .shib-header-color-toggle.shib-h1-cyan {
-  --h1-color: rgb(var(--cyan));
+  --h1-color: var(--cyan);
 }
 .shib-header-color-toggle.shib-h1-turquoise {
-  --h1-color: rgb(var(--turquoise));
+  --h1-color: var(--turquoise);
 }
 .shib-header-color-toggle.shib-h1-green {
   --h1-color: var(--green);
@@ -1321,19 +1395,19 @@ body.blockquote-style-quotation-mark
   --h1-color: var(--yellow);
 }
 .shib-header-color-toggle.shib-h1-lemon {
-  --h1-color: rgb(var(--lemon));
+  --h1-color: var(--lemon);
 }
 .shib-header-color-toggle.shib-h1-orange {
-  --h1-color: rgb(var(--orange));
+  --h1-color: var(--orange);
 }
 .shib-header-color-toggle.shib-h2-lily {
-  --h2-color: rgb(var(--lily));
+  --h2-color: var(--lily);
 }
 .shib-header-color-toggle.shib-h2-red {
   --h2-color: var(--red);
 }
 .shib-header-color-toggle.shib-h2-rose {
-  --h2-color: rgb(var(--rose));
+  --h2-color: var(--rose);
 }
 .shib-header-color-toggle.shib-h2-violet {
   --h2-color: var(--violet);
@@ -1345,10 +1419,10 @@ body.blockquote-style-quotation-mark
   --h2-color: var(--sea);
 }
 .shib-header-color-toggle.shib-h2-cyan {
-  --h2-color: rgb(var(--cyan));
+  --h2-color: var(--cyan);
 }
 .shib-header-color-toggle.shib-h2-turquoise {
-  --h2-color: rgb(var(--turquoise));
+  --h2-color: var(--turquoise);
 }
 .shib-header-color-toggle.shib-h2-green {
   --h2-color: var(--green);
@@ -1357,19 +1431,19 @@ body.blockquote-style-quotation-mark
   --h2-color: var(--yellow);
 }
 .shib-header-color-toggle.shib-h2-lemon {
-  --h2-color: rgb(var(--lemon));
+  --h2-color: var(--lemon);
 }
 .shib-header-color-toggle.shib-h2-orange {
-  --h2-color: rgb(var(--orange));
+  --h2-color: var(--orange);
 }
 .shib-header-color-toggle.shib-h3-lily {
-  --h3-color: rgb(var(--lily));
+  --h3-color: var(--lily);
 }
 .shib-header-color-toggle.shib-h3-red {
   --h3-color: var(--red);
 }
 .shib-header-color-toggle.shib-h3-rose {
-  --h3-color: rgb(var(--rose));
+  --h3-color: var(--rose);
 }
 .shib-header-color-toggle.shib-h3-violet {
   --h3-color: var(--violet);
@@ -1381,10 +1455,10 @@ body.blockquote-style-quotation-mark
   --h3-color: var(--sea);
 }
 .shib-header-color-toggle.shib-h3-cyan {
-  --h3-color: rgb(var(--cyan));
+  --h3-color: var(--cyan);
 }
 .shib-header-color-toggle.shib-h3-turquoise {
-  --h3-color: rgb(var(--turquoise));
+  --h3-color: var(--turquoise);
 }
 .shib-header-color-toggle.shib-h3-green {
   --h3-color: var(--green);
@@ -1393,19 +1467,19 @@ body.blockquote-style-quotation-mark
   --h3-color: var(--yellow);
 }
 .shib-header-color-toggle.shib-h3-lemon {
-  --h3-color: rgb(var(--lemon));
+  --h3-color: var(--lemon);
 }
 .shib-header-color-toggle.shib-h3-orange {
-  --h3-color: rgb(var(--orange));
+  --h3-color: var(--orange);
 }
 .shib-header-color-toggle.shib-h4-lily {
-  --h4-color: rgb(var(--lily));
+  --h4-color: var(--lily);
 }
 .shib-header-color-toggle.shib-h4-red {
   --h4-color: var(--red);
 }
 .shib-header-color-toggle.shib-h4-rose {
-  --h4-color: rgb(var(--rose));
+  --h4-color: var(--rose);
 }
 .shib-header-color-toggle.shib-h4-violet {
   --h4-color: var(--violet);
@@ -1417,10 +1491,10 @@ body.blockquote-style-quotation-mark
   --h4-color: var(--sea);
 }
 .shib-header-color-toggle.shib-h4-cyan {
-  --h4-color: rgb(var(--cyan));
+  --h4-color: var(--cyan);
 }
 .shib-header-color-toggle.shib-h4-turquoise {
-  --h4-color: rgb(var(--turquoise));
+  --h4-color: var(--turquoise);
 }
 .shib-header-color-toggle.shib-h4-green {
   --h4-color: var(--green);
@@ -1429,19 +1503,19 @@ body.blockquote-style-quotation-mark
   --h4-color: var(--yellow);
 }
 .shib-header-color-toggle.shib-h4-lemon {
-  --h4-color: rgb(var(--lemon));
+  --h4-color: var(--lemon);
 }
 .shib-header-color-toggle.shib-h4-orange {
-  --h4-color: rgb(var(--orange));
+  --h4-color: var(--orange);
 }
 .shib-header-color-toggle.shib-h5-lily {
-  --h5-color: rgb(var(--lily));
+  --h5-color: var(--lily);
 }
 .shib-header-color-toggle.shib-h5-red {
   --h5-color: var(--red);
 }
 .shib-header-color-toggle.shib-h5-rose {
-  --h5-color: rgb(var(--rose));
+  --h5-color: var(--rose);
 }
 .shib-header-color-toggle.shib-h5-violet {
   --h5-color: var(--violet);
@@ -1453,10 +1527,10 @@ body.blockquote-style-quotation-mark
   --h5-color: var(--sea);
 }
 .shib-header-color-toggle.shib-h5-cyan {
-  --h5-color: rgb(var(--cyan));
+  --h5-color: var(--cyan);
 }
 .shib-header-color-toggle.shib-h5-turquoise {
-  --h5-color: rgb(var(--turquoise));
+  --h5-color: var(--turquoise);
 }
 .shib-header-color-toggle.shib-h5-green {
   --h5-color: var(--green);
@@ -1465,19 +1539,19 @@ body.blockquote-style-quotation-mark
   --h5-color: var(--yellow);
 }
 .shib-header-color-toggle.shib-h5-lemon {
-  --h5-color: rgb(var(--lemon));
+  --h5-color: var(--lemon);
 }
 .shib-header-color-toggle.shib-h5-orange {
-  --h5-color: rgb(var(--orange));
+  --h5-color: var(--orange);
 }
 .shib-header-color-toggle.shib-h6-lily {
-  --h6-color: rgb(var(--lily));
+  --h6-color: var(--lily);
 }
 .shib-header-color-toggle.shib-h6-red {
   --h6-color: var(--red);
 }
 .shib-header-color-toggle.shib-h6-rose {
-  --h6-color: rgb(var(--rose));
+  --h6-color: var(--rose);
 }
 .shib-header-color-toggle.shib-h6-violet {
   --h6-color: var(--violet);
@@ -1489,10 +1563,10 @@ body.blockquote-style-quotation-mark
   --h6-color: var(--sea);
 }
 .shib-header-color-toggle.shib-h6-cyan {
-  --h6-color: rgb(var(--cyan));
+  --h6-color: var(--cyan);
 }
 .shib-header-color-toggle.shib-h6-turquoise {
-  --h6-color: rgb(var(--turquoise));
+  --h6-color: var(--turquoise);
 }
 .shib-header-color-toggle.shib-h6-green {
   --h6-color: var(--green);
@@ -1501,10 +1575,10 @@ body.blockquote-style-quotation-mark
   --h6-color: var(--yellow);
 }
 .shib-header-color-toggle.shib-h6-lemon {
-  --h6-color: rgb(var(--lemon));
+  --h6-color: var(--lemon);
 }
 .shib-header-color-toggle.shib-h6-orange {
-  --h6-color: rgb(var(--orange));
+  --h6-color: var(--orange);
 }
 .shib-h1-underline
   .markdown-source-view.is-live-preview
@@ -2017,7 +2091,7 @@ body.buttons-workspace-style.theme-dark .workspace button:active {
   font-size: 0.89em;
 }
 .theme-light .dropdown {
-  color: rgb(var(--color-black));
+  color: var(--color-black);
   border: 1px solid rgba(100, 100, 100, 0.5);
   border-radius: 0;
   box-shadow: 0 -2px 0 0 rgba(100, 100, 100, 0.1) inset,
@@ -2919,7 +2993,7 @@ body:not(.shib-callout-toggle) .callout:not(.is-collapsible) .callout-content {
   .callout-title,
 body:not(.shib-callout-toggle) .callout .callout-title,
 body:not(.shib-callout-toggle) .callout:not(.is-collapsible) .callout-title {
-  background-color: rgba(var(--callout-color), 0 0.5);
+  background-color: rgba(var(--callout-color), 0.1);
   padding: var(--callout-title-padding);
   cursor: pointer;
 }
@@ -2949,7 +3023,7 @@ body:not(.shib-callout-toggle)
 .shib-callout-toggle.shib-callout-style-2 .callout:not(.is-collapsible),
 .shib-callout-toggle.shib-callout-style-3 .callout:not(.is-collapsible),
 body:not(.shib-callout-toggle) .callout:not(.is-collapsible) {
-  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
+  border-color: rgba(var(--callout-color), 0.4);
   border-width: 1px;
   border-radius: var(--callout-radius);
   background-color: rgba(var(--side), 0.4);
@@ -2958,7 +3032,7 @@ body:not(.shib-callout-toggle) .callout:not(.is-collapsible) {
 body:not(.shib-callout-toggle) .callout .callout-content {
   padding: var(--callout-title-padding) var(--callout-title-padding)
     var(--callout-title-padding) calc(var(--callout-title-padding) * 1.5);
-  border-top: 1px solid color-mix(in srgb, var(--callout-color) 40%, transparent);
+  border-top: 1px solid rgba(var(--callout-color), 0.4);
 }
 .shib-callout-toggle.shib-callout-style-1 .callout .callout-fold,
 .shib-callout-toggle.shib-callout-style-1 .callout.is-collapsible .callout-fold,
@@ -2993,7 +3067,7 @@ body:not(.shib-callout-toggle) .callout.is-collapsible .callout-title-inner {
 .shib-callout-toggle.shib-callout-style-2 .callout.is-collapsible,
 .shib-callout-toggle.shib-callout-style-3 .callout.is-collapsible,
 body:not(.shib-callout-toggle) .callout.is-collapsible {
-  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
+  border-color: rgba(var(--callout-color), 0.4);
   border-width: 1px;
   border-radius: var(--callout-radius);
   background-color: rgba(var(--side), 0.4);
@@ -3008,7 +3082,7 @@ body:not(.shib-callout-toggle) .callout.is-collapsible {
 body:not(.shib-callout-toggle)
   .callout.is-collapsible.is-collapsed
   .callout-title {
-  background-color: color-mix(in srgb, var(--callout-color) 10%, transparent);
+  background-color: rgba(var(--callout-color), 0.1);
   padding: var(--callout-title-padding);
   cursor: pointer;
 }
@@ -3028,9 +3102,9 @@ body:not(.shib-callout-toggle) .callout.is-collapsible:not(.is-collapsed) {
 body:not(.shib-callout-toggle)
   .callout.is-collapsible:not(.is-collapsed)
   .callout-title {
-  background-color: color-mix(in srgb, var(--callout-color) 10%, transparent);
+  background-color: rgba(var(--callout-color), 0.1);
   padding: var(--callout-title-padding);
-  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
+  border-color: rgba(var(--callout-color), 0.4);
   cursor: pointer;
 }
 .shib-callout-toggle.shib-callout-style-3
@@ -3041,7 +3115,7 @@ body:not(.shib-callout-toggle)
   .callout-content {
   padding: var(--callout-title-padding) var(--callout-title-padding) 0
     calc(var(--callout-title-padding) * 1.5);
-  border-top: 2px solid color-mix(in srgb, var(--callout-color) 40%, transparent);
+  border-top: 2px solid rgba(var(--callout-color), 0.4);
 }
 .shib-callout-toggle.shib-callout-style-2
   .callout:not(.is-collapsible)
@@ -3050,9 +3124,9 @@ body:not(.shib-callout-toggle)
   .callout:not(.is-collapsible)
   .callout-title,
 body:not(.shib-callout-toggle) .callout:not(.is-collapsible) .callout-title {
-  background-color: color-mix(in srgb, var(--callout-color) 10%, transparent);
+  background-color: rgba(var(--callout-color), 0.1);
   padding: var(--callout-title-padding);
-  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
+  border-color: rgba(var(--callout-color), 0.4);
 }
 .shib-callout-toggle.shib-callout-style-2 .callout .list-collapse-indicator,
 .shib-callout-toggle.shib-callout-style-3 .callout .list-collapse-indicator,
@@ -3077,8 +3151,8 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   min-height: 36px;
   border: 2px solid;
   border-radius: 10px;
-  background-color: color-mix(in srgb, var(--callout-color) 10%, transparent);
-  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
+  background-color: rgba(var(--callout-color), 0.1);
+  border-color: rgba(var(--callout-color), 0.4);
 }
 .shib-callout-toggle.shib-callout-style-1
   .callout
@@ -3100,7 +3174,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
 .shib-callout-toggle.shib-callout-style-1 .callout .callout-content {
   padding: 20px;
   margin-top: -8px;
-  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
+  border-color: rgba(var(--callout-color), 0.4);
 }
 .shib-callout-toggle.shib-callout-style-1
   .callout.is-collapsible:not(.is-collapsed)
@@ -3110,7 +3184,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   border-left: 1px solid;
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
-  border-color: color-mix(in srgb, var(--callout-color) 40%, transparent);
+  border-color: rgba(var(--callout-color), 0.4);
   padding: var(--size-4-4);
 }
 .shib-callout-toggle.shib-callout-block .callout.is-collapsible,
@@ -3121,21 +3195,21 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
 .shib-callout-toggle.shib-callout-style-2 .callout .callout-content {
   padding: var(--callout-title-padding) var(--callout-title-padding)
     var(--callout-title-padding) calc(var(--callout-title-padding) * 1.5);
-  border-top: 1px dashed color-mix(in srgb, var(--callout-color) 40%, transparent);
+  border-top: 1px dashed rgba(var(--callout-color), 0.4);
 }
 .shib-callout-toggle.shib-callout-style-2
   .callout.is-collapsible:not(.is-collapsed)
   .callout-content {
   padding: var(--callout-title-padding) var(--callout-title-padding) 0
     calc(var(--callout-title-padding) * 1.5);
-  border-top: 1px dashed color-mix(in srgb, var(--callout-color) 40%, transparent);
+  border-top: 1px dashed rgba(var(--callout-color), 0.4);
 }
 .callout-title-inner {
   flex-grow: 1;
 }
 .shib-callout-toggle.shib-callout-style-4 .callout {
   padding: 0;
-  border: 1px solid color-mix(in srgb, var(--callout-color) 20%, transparent);
+  border: 1px solid rgba(var(--callout-color), 0.2);
   overflow: hidden;
 }
 .shib-callout-toggle.shib-callout-style-4.shib-callout-toggle.shib-callout-style-4.theme-light
@@ -3147,12 +3221,12 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
 }
 .shib-callout-toggle.shib-callout-style-4.theme-light .callout-title {
-  background: color-mix(in srgb, var(--callout-color) 20%, transparent);
+  background: rgba(var(--callout-color), 0.2);
   padding: var(--callout-title-padding);
   cursor: pointer;
 }
 .shib-callout-toggle.shib-callout-style-4.theme-dark .callout-title {
-  background: color-mix(in srgb, var(--callout-color) 20%, transparent);
+  background: rgba(var(--callout-color), 0.2);
 }
 .shib-callout-toggle.shib-callout-style-4.theme-light
   .callout-title
@@ -3182,7 +3256,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .callout.is-collapsible:not(.is-collapsed)
   .callout-fold {
   padding-right: 0;
-  color: color-mix(in srgb, var(--callout-color) 100%, transparent);
+  color: rgba(var(--callout-color), 1);
 }
 .shib-callout-toggle.shib-callout-style-4.theme-light .callout-fold {
   filter: brightness(0.75);
@@ -3201,12 +3275,12 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   box-shadow: 0 -2px 0 0 rgba(0, 0, 0, 0.175) inset;
 }
 .shib-callout-toggle.shib-callout-block .callout {
-  border-top: 2px solid var(--callout-color);
-  border-left: 2px solid var(--callout-color);
-  border-right: 2px solid var(--callout-color);
-  border-bottom: 2px solid var(--callout-color);
+  border-top: 2px solid rgb(var(--callout-color));
+  border-left: 2px solid rgb(var(--callout-color));
+  border-right: 2px solid rgb(var(--callout-color));
+  border-bottom: 2px solid rgb(var(--callout-color));
   border-radius: 10px;
-  border-color: color-mix(in srgb, var(--callout-color) 50%, transparent);
+  border-color: rgba(var(--callout-color), 0.5);
   background-color: unset;
   border-radius: var(--callout-radius);
 }
@@ -3246,14 +3320,14 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
 .shib-callout-color-toggle .callout[data-callout="seealso"],
 .shib-callout-color-toggle .callout[data-callout="summary"],
 .shib-callout-color-toggle .callout[data-callout="tldr"] {
-  --callout-color: var(--blue);
+  --callout-color: var(--blue-rgb);
 }
 .shib-callout-color-toggle .callout[data-callout="hint"],
 .shib-callout-color-toggle .callout[data-callout="important"],
 .shib-callout-color-toggle .callout[data-callout="info"],
 .shib-callout-color-toggle .callout[data-callout="tip"],
 .shib-callout-color-toggle .callout[data-callout="todo"] {
-  --callout-color: var(--sea);
+  --callout-color: var(--sea-rgb);
 }
 .shib-callout-color-toggle .callout[data-callout="check"],
 .shib-callout-color-toggle .callout[data-callout="done"],
@@ -3261,27 +3335,27 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
 .shib-callout-color-toggle .callout[data-callout="help"],
 .shib-callout-color-toggle .callout[data-callout="question"],
 .shib-callout-color-toggle .callout[data-callout="success"] {
-  --callout-color: var(--green);
+  --callout-color: var(--green-rgb);
 }
 .shib-callout-color-toggle .callout[data-callout="attention"],
 .shib-callout-color-toggle .callout[data-callout="caution"],
 .shib-callout-color-toggle .callout[data-callout="warning"] {
-  --callout-color: var(--yellow);
+  --callout-color: var(--yellow-rgb);
 }
 .shib-callout-color-toggle .callout[data-callout="bug"],
 .shib-callout-color-toggle .callout[data-callout="danger"],
 .shib-callout-color-toggle .callout[data-callout="error"] {
-  --callout-color: var(--red);
+  --callout-color: var(--red-rgb);
 }
 .shib-callout-color-toggle .callout[data-callout="example"] {
-  --callout-color: var(--violet);
+  --callout-color: var(--violet-rgb);
 }
 .shib-callout-color-toggle .callout[data-callout="cite"],
 .shib-callout-color-toggle .callout[data-callout="quote"] {
-  --callout-color: var(--surface1);
+  --callout-color: var(--surface1-rgb);
 }
 .shib-callout-color-toggle.shiba-accent-style .callout[data-callout="note"] {
-  --callout-color: var(--accent);
+  --callout-color: var(--accent-rgb);
 }
 .shib-callout-toggle
   .callout[data-callout="quote"]
@@ -3310,7 +3384,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .callout-content
   p:last-child {
   font-style: normal;
-  color: rgb(var(--yellow, 153, 122, 0));
+  color: var(--yellow, rgb(153, 122, 0));
   text-align: right;
   margin-bottom: 0;
 }
@@ -3513,7 +3587,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
 .shiba-accent-style
   .style-settings-heading[data-id="shiba-theme-settings-extended"],
 .shiba-accent-style .style-settings-heading[data-id="shiba-theme-settings"] {
-  border-color: rgba(var(--color-accent), 0.2);
+  border-color: color-mix(in srgb, var(--color-accent) 20%, transparent);
 }
 .modal {
   --h1-font: var(--interface-font);
@@ -3640,7 +3714,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   )
   .nav-folder-children
   > .nav-folder:nth-child(10n + 3) {
-  background-color: rgba(var(--lily), 0.3);
+  background-color: color-mix(in srgb, var(--lily) 30%, transparent);
   opacity: var(--shib-colorful-folders-opacity);
   border-radius: var(--shib-colorful-folders-radius, 2px);
   margin-bottom: 2px;
@@ -3650,7 +3724,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   )
   .nav-folder-children
   > .nav-folder:nth-child(10n + 4) {
-  background-color: rgba(var(--orange), 0.3);
+  background-color: color-mix(in srgb, var(--orange) 30%, transparent);
   opacity: var(--shib-colorful-folders-opacity);
   border-radius: var(--shib-colorful-folders-radius, 2px);
   margin-bottom: 2px;
@@ -3670,7 +3744,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   )
   .nav-folder-children
   > .nav-folder:nth-child(10n + 6) {
-  background-color: rgba(var(--lemon), 0.3);
+  background-color: color-mix(in srgb, var(--lemon) 30%, transparent);
   opacity: var(--shib-colorful-folders-opacity);
   border-radius: var(--shib-colorful-folders-radius, 2px);
   margin-bottom: 2px;
@@ -3700,7 +3774,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   )
   .nav-folder-children
   > .nav-folder:nth-child(10n + 9) {
-  background-color: rgba(var(--turquoise), 0.3);
+  background-color: color-mix(in srgb, var(--turquoise) 30%, transparent);
   opacity: var(--shib-colorful-folders-opacity);
   border-radius: var(--shib-colorful-folders-radius, 2px);
   margin-bottom: 2px;
@@ -3710,7 +3784,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   )
   .nav-folder-children
   > .nav-folder:nth-child(10n + 10) {
-  background-color: rgba(var(--cyan), 0.3);
+  background-color: color-mix(in srgb, var(--cyan) 30%, transparent);
   opacity: var(--shib-colorful-folders-opacity);
   border-radius: var(--shib-colorful-folders-radius, 2px);
   margin-bottom: 2px;
@@ -3892,7 +3966,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   )
   .nav-folder-children
   > .nav-folder:nth-child(10n + 3) {
-  background-color: rgba(var(--lily), 0.9);
+  background-color: color-mix(in srgb, var(--lily) 90%, transparent);
   opacity: var(--shib-colorful-folders-opacity);
   border-radius: var(--shib-colorful-folders-radius, 2px);
   margin-bottom: 2px;
@@ -3902,7 +3976,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   )
   .nav-folder-children
   > .nav-folder:nth-child(10n + 4) {
-  background-color: rgba(var(--orange), 0.9);
+  background-color: color-mix(in srgb, var(--orange) 90%, transparent);
   opacity: var(--shib-colorful-folders-opacity);
   border-radius: var(--shib-colorful-folders-radius, 2px);
   margin-bottom: 2px;
@@ -3922,7 +3996,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   )
   .nav-folder-children
   > .nav-folder:nth-child(10n + 6) {
-  background-color: rgba(var(--lemon), 0.9);
+  background-color: color-mix(in srgb, var(--lemon) 90%, transparent);
   opacity: var(--shib-colorful-folders-opacity);
   border-radius: var(--shib-colorful-folders-radius, 2px);
   margin-bottom: 2px;
@@ -3972,7 +4046,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   )
   .nav-folder-children
   > .nav-folder:nth-child(10n + 9) {
-  background-color: rgba(var(--turquoise), 0.9);
+  background-color: color-mix(in srgb, var(--turquoise) 90%, transparent);
   opacity: var(--shib-colorful-folders-opacity);
   border-radius: var(--shib-colorful-folders-radius, 2px);
   margin-bottom: 2px;
@@ -4002,7 +4076,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   )
   .nav-folder-children
   > .nav-folder:nth-child(10n + 10) {
-  background-color: rgba(var(--cyan), 0.9);
+  background-color: color-mix(in srgb, var(--cyan) 90%, transparent);
   opacity: var(--shib-colorful-folders-opacity);
   border-radius: var(--shib-colorful-folders-radius, 2px);
   margin-bottom: 2px;
@@ -4399,7 +4473,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 3)
   .nav-folder-title {
-  color: rgba(var(--lily));
+  color: var(--lily);
   opacity: 0.9;
   font-weight: 700;
 }
@@ -4407,7 +4481,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 4)
   .nav-folder-title {
-  color: rgba(var(--orange));
+  color: var(--orange);
   opacity: 0.9;
   font-weight: 700;
 }
@@ -4423,7 +4497,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 6)
   .nav-folder-title {
-  color: rgba(var(--lemon));
+  color: var(--lemon);
   opacity: 0.9;
   font-weight: 700;
 }
@@ -4447,7 +4521,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 9)
   .nav-folder-title {
-  color: rgba(var(--turquoise));
+  color: var(--turquoise);
   opacity: 0.9;
   font-weight: 700;
 }
@@ -4455,7 +4529,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 10)
   .nav-folder-title {
-  color: rgba(var(--cyan));
+  color: var(--cyan);
   opacity: 0.9;
   font-weight: 700;
 }
@@ -4471,7 +4545,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 2)
   .nav-folder-title {
-  color: rgba(var(--rose), 0.9);
+  color: color-mix(in srgb, var(--rose) 90%, transparent);
   opacity: 0.9;
   font-weight: 700;
 }
@@ -4479,7 +4553,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 3)
   .nav-folder-title {
-  color: rgba(var(--lily), 0.9);
+  color: color-mix(in srgb, var(--lily) 90%, transparent);
   opacity: 0.9;
   font-weight: 700;
 }
@@ -4487,7 +4561,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 4)
   .nav-folder-title {
-  color: rgba(var(--orange), 0.9);
+  color: color-mix(in srgb, var(--orange) 90%, transparent);
   opacity: 0.9;
   font-weight: 700;
 }
@@ -4515,7 +4589,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 6)
   .nav-folder-title {
-  color: rgba(var(--turquoise), 0.9);
+  color: color-mix(in srgb, var(--turquoise) 90%, transparent);
   opacity: 0.9;
   font-weight: 700;
 }
@@ -4555,7 +4629,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 9)
   .nav-folder-title {
-  color: rgba(var(--cyan), 0.9);
+  color: color-mix(in srgb, var(--cyan) 90%, transparent);
   opacity: 0.9;
   font-weight: 700;
 }
@@ -4587,7 +4661,7 @@ body:not(.shib-callout-toggle) .callout .list-collapse-indicator {
   .nav-folder-children
   > .nav-folder:nth-child(10n + 5)
   .nav-folder-title {
-  color: rgba(var(--cyan), 0.9);
+  color: color-mix(in srgb, var(--cyan) 90%, transparent);
   opacity: 0.8;
   font-weight: 700;
 }
@@ -5671,7 +5745,7 @@ body:not(.shib-floating-animated-tab-toggle):not(.shib-disable-newtab-align)
   .workspace-tabs:not(.mod-stacked)
   .workspace-tab-header.is-active
   .workspace-tab-header-inner:hover {
-  background-color: rgba(var(--background-secondary), 0.4);
+  background-color: color-mix(in srgb, var(--background-secondary) 40%, transparent);
 }
 .shib-floating-animated-tab-toggle
   .mod-root
@@ -6103,14 +6177,14 @@ body:not(.shiba-remove-file-icons)
   .nav-folder
   > .nav-folder-children {
   transition: color 0.4s;
-  border-color: rgba(var(--rainbow-folder-color), 0.5);
+  border-color: color-mix(in srgb, var(--rainbow-folder-color) 50%, transparent);
 }
 .shiba-toggle-indent-colors-accent
   .nav-folder.mod-root
   .nav-folder
   > .nav-folder-children {
   transition: color 0.4s;
-  border-color: rgba(var(--accent), 0.7);
+  border-color: color-mix(in srgb, var(--accent) 70%, transparent);
 }
 .nav-folder-children > .nav-folder:nth-child(11n + 2) {
   --rainbow-folder-color: var(--red);
