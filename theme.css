@@ -96,6 +96,12 @@ body {
   --cards-aspect-ratio: auto;
   --cards-columns: repeat;
   --hr-outline-color: var(--background-modifier-border);
+  --slider-track-background: var(--background-modifier-border);
+  --slider-track-height: 2px;
+  --slider-thumb-width: 20px;
+  --slider-thumb-height: 12px;
+  --slider-thumb-radius: 2px;
+  --slider-thumb-border-width: 0;
 }
 .theme-light,
 .theme-light.default-light-theme {
@@ -5097,8 +5103,7 @@ body.layout-style-options-default.shib-workspace-background-image-toggle
   .workspace-tab-header.is-before-active,
 body.layout-style-options-default.shib-workspace-background-image-toggle
   .workspace-tab-header.is-before-active
-  .workspace-tab-header-inner,
-input[type="range"] {
+  .workspace-tab-header-inner {
   background-color: transparent;
 }
 .shib-setting-default-frosted-glass .horizontal-tab-nav-item.is-active,
@@ -5129,31 +5134,11 @@ input[type="range"] {
   color: var(--text-normal) !important;
   font-weight: bolder;
 }
-input[type="range"] {
-  height: 24px;
-  padding: 0 !important;
-  -webkit-appearance: none;
-  cursor: default;
-  border-radius: 90px;
-}
-input[type="range"]::-webkit-slider-runnable-track {
-  background: var(--background-modifier-border);
-  height: 1px !important;
-}
-input[type="range"]::-webkit-slider-thumb {
-  background: var(--color-accent);
-  height: 12px;
-  border-radius: 1.5px;
-  width: 20px;
-  margin-top: 1px;
-  cursor: pointer;
-}
+input[type="range"]::-webkit-slider-thumb,
 input[type="range"]::-webkit-slider-thumb:active,
 input[type="range"]::-webkit-slider-thumb:hover {
   background: var(--color-accent);
-}
-.graph-controls input[type="range"]::-webkit-slider-runnable-track {
-  margin-top: -5px;
+  cursor: pointer;
 }
 .shib-table-toggle
   .is-live-preview.cards:not(.table-disable)
