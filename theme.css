@@ -5138,7 +5138,11 @@ input[type="range"]::-webkit-slider-thumb,
 input[type="range"]::-webkit-slider-thumb:active,
 input[type="range"]::-webkit-slider-thumb:hover {
   background: var(--color-accent);
+  border: none;
   cursor: pointer;
+  margin-top: calc(
+    (var(--slider-track-height) - var(--slider-thumb-height)) / 2
+  );
 }
 .shib-table-toggle
   .is-live-preview.cards:not(.table-disable)
